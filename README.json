@@ -11,7 +11,7 @@
       "title": "⭐ Editor's Picks"
     },
     {
-      "description": "production · Matt Pocock · Repo · 214k★\nTwenty-three battle-tested skills from the Total TypeScript creator. The and skills force the agent to interview you before writing code — the single best fix for \"the agent didn't do what I wanted.\" enforces red-green-refactor. rescues codebases that have become balls of mud. maps work too big for one session onto decision tickets. Built for real engineering work, not vibe coding. Pick the ones you want with the installer's interactive picker.",
+      "description": "production · Matt Pocock · Repo · 220k★\nTwenty-three battle-tested skills from the Total TypeScript creator. The and skills force the agent to interview you before writing code — the single best fix for \"the agent didn't do what I wanted.\" enforces red-green-refactor. rescues codebases that have become balls of mud. maps work too big for one session onto decision tickets. Built for real engineering work, not vibe coding. Pick the ones you want with the installer's interactive picker.",
       "items": [],
       "title": "🛠️ mattpocock/skills — Skills For Real Engineers"
     },
@@ -26,12 +26,12 @@
       "title": "🔬 SkillClaw"
     },
     {
-      "description": "production · @therohitdas · Repo · 505★\nIf your agent can't read YouTube, half the internet is invisible to it. This skill gives Hermes transcript extraction, channel browsing, search, and playlist parsing — no Google API key, no yt-dlp, no cloud-IP blocks. Powered by TranscriptAPI. Works in Hermes, Claude Code, OpenClaw, Cursor, Windsurf, Cline, and Codex. (Maintainer's own — see CONTRIBUTING.)",
+      "description": "production · @therohitdas · Repo · 522★\nIf your agent can't read YouTube, half the internet is invisible to it. This skill gives Hermes transcript extraction, channel browsing, search, and playlist parsing — no Google API key, and nothing to install or maintain. Powered by TranscriptAPI. Works in Hermes, Claude, OpenClaw and other agent runtimes. (Maintainer's own — see CONTRIBUTING.)",
       "items": [],
       "title": "🎬 youtube-full"
     },
     {
-      "description": "beta · Resemble AI · Repo · 50★\nDeepfake detection for agents that ingest user-submitted media. Detects AI-generated audio, image, video, and text. Traces audio source (ElevenLabs, Resemble, etc.), applies invisible watermarks for provenance, and verifies speaker identity. The first thing to install if your agent reads the public internet.",
+      "description": "beta · Resemble AI · Repo · 53★\nDeepfake detection for agents that ingest user-submitted media. Detects AI-generated audio, image, video, and text. Traces audio source (ElevenLabs, Resemble, etc.), applies invisible watermarks for provenance, and verifies speaker identity. The first thing to install if your agent reads the public internet.",
       "items": [],
       "title": "🛡️ resemble-ai/detect-skill"
     },
@@ -46,7 +46,7 @@
         {
           "node_type": "item",
           "title": "youtube-skills",
-          "description": "by therohitdas — Transcripts, search, channels, playlists. Cross-agent: Hermes / Claude Code / OpenClaw / Cursor / Windsurf. Powered by TranscriptAPI. [production]",
+          "description": "by therohitdas — Transcripts, search, channels, playlists. Cross-agent: Hermes, Claude, OpenClaw and other agent runtimes. Powered by TranscriptAPI. [production]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
             "last_commit": "2026-08-12T13:21:43Z",
             "owner": "ZeroPointRepo",
             "repo": "youtube-skills",
-            "stars": 519
+            "stars": 524
           }
         },
         {
@@ -85,10 +85,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T09:50:15Z",
+            "last_commit": "2026-08-17T16:53:20Z",
             "owner": "robbyczgw-cla",
             "repo": "hermes-web-search-plus",
-            "stars": 376
+            "stars": 378
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-14T06:48:07Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3364
+            "stars": 3368
           }
         },
         {
@@ -186,10 +186,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -200,10 +200,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -214,10 +214,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -228,10 +228,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -242,10 +242,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -256,10 +256,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -270,10 +270,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -284,10 +284,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -298,10 +298,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -312,10 +312,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -340,10 +340,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -354,10 +354,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -368,10 +368,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -382,10 +382,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -396,10 +396,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -410,10 +410,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -424,10 +424,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -438,10 +438,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -452,10 +452,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -466,10 +466,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -480,10 +480,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -494,10 +494,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         }
       ],
@@ -514,10 +514,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T13:50:02Z",
+            "last_commit": "2026-08-17T08:48:07Z",
             "owner": "AMAP-ML",
             "repo": "SkillClaw",
-            "stars": 2447
+            "stars": 2452
           }
         },
         {
@@ -531,7 +531,21 @@
             "last_commit": "2026-08-10T11:47:12Z",
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 1941
+            "stars": 1944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent QA skills",
+          "description": "by Vostride — Three portable skills for authoring Agent QA tests, triaging failed runs from evidence, and applying scoped fixes through MCP or CLI. [beta]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 895
           }
         },
         {
@@ -545,7 +559,7 @@
             "last_commit": "2026-03-18T13:13:38Z",
             "owner": "Romanescu11",
             "repo": "hermes-skill-factory",
-            "stars": 520
+            "stars": 522
           }
         },
         {
@@ -559,7 +573,7 @@
             "last_commit": "2026-07-27T17:15:52Z",
             "owner": "Cranot",
             "repo": "super-hermes",
-            "stars": 374
+            "stars": 375
           }
         },
         {
@@ -601,7 +615,7 @@
             "last_commit": "2026-04-10T02:24:09Z",
             "owner": "tlehman",
             "repo": "litprog-skill",
-            "stars": 247
+            "stars": 249
           }
         },
         {
@@ -629,7 +643,7 @@
             "last_commit": "2026-06-06T05:14:57Z",
             "owner": "Yonkoo11",
             "repo": "hermes-dojo",
-            "stars": 149
+            "stars": 150
           }
         },
         {
@@ -671,7 +685,7 @@
             "last_commit": "2026-08-15T08:22:28Z",
             "owner": "hermes-labs-ai",
             "repo": "lintlang",
-            "stars": 60
+            "stars": 59
           }
         },
         {
@@ -785,6 +799,20 @@
             "repo": "hermes-cursor-dispatcher",
             "stars": 2
           }
+        },
+        {
+          "node_type": "item",
+          "title": "windows-terminal-hygiene",
+          "description": "by vollegrewar — Pre-flight checklist that keeps agent terminal commands from hanging on Windows: timeouts, non-interactive flags, pty, encoding, and a 3-minute recovery flow. [beta]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T18:43:09Z",
+            "owner": "vollegrewar",
+            "repo": "windows-terminal-hygiene",
+            "stars": 0
+          }
         }
       ],
       "title": "Hermes-native skill builders"
@@ -800,7 +828,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T15:59:32Z",
+            "last_commit": "2026-08-17T17:29:18Z",
             "owner": "unmodeled-tyler",
             "repo": "vessel-browser",
             "stars": 126
@@ -817,7 +845,7 @@
             "last_commit": "2026-08-02T08:20:43Z",
             "owner": "raulvidis",
             "repo": "hermes-cloudflare",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -831,7 +859,7 @@
             "last_commit": "2026-03-31T18:01:57Z",
             "owner": "anpicasso",
             "repo": "hermes-plugin-chrome-profiles",
-            "stars": 6
+            "stars": 7
           }
         }
       ],
@@ -865,7 +893,7 @@
             "last_commit": "2026-08-13T04:59:02Z",
             "owner": "Xquik-dev",
             "repo": "hermes-tweet",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -952,10 +980,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -966,10 +994,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T11:15:04Z",
+            "last_commit": "2026-08-17T07:54:42Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 219147
+            "stars": 220185
           }
         },
         {
@@ -983,7 +1011,7 @@
             "last_commit": "2026-07-18T05:50:32Z",
             "owner": "42-evey",
             "repo": "hermes-plugins",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -1037,7 +1065,7 @@
         {
           "node_type": "item",
           "title": "typeui-hermes",
-          "description": "by Bergside — Use design skills to generate better UI with Hermes. [production]",
+          "description": "by Bergside — Design skills that give Hermes a consistent component vocabulary when generating UI; setup in the Hermes guide. [production]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1045,7 +1073,21 @@
             "last_commit": "2026-07-04T10:11:58Z",
             "owner": "bergside",
             "repo": "typeui",
-            "stars": 1767
+            "stars": 1771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrkasVideoStudio",
+          "description": "by Orkas-AI — Local-first TypeScript CLI and MCP toolkit with 14 skills for agent-authored video composition, editing, generation, and plan-based assembly. [beta]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:25:38Z",
+            "owner": "Orkas-AI",
+            "repo": "Orkas-VideoStudio",
+            "stars": 523
           }
         },
         {
@@ -1059,7 +1101,7 @@
             "last_commit": "2026-08-10T20:50:49Z",
             "owner": "black-forest-labs",
             "repo": "skills",
-            "stars": 99
+            "stars": 101
           }
         },
         {
@@ -1073,7 +1115,7 @@
             "last_commit": "2026-04-05T01:30:52Z",
             "owner": "FahrenheitResearch",
             "repo": "hermes-weather-plugin",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -1084,10 +1126,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T19:05:22Z",
+            "last_commit": "2026-08-17T11:22:11Z",
             "owner": "uizze",
             "repo": "uizze",
-            "stars": 4
+            "stars": 6
           }
         },
         {
@@ -1126,7 +1168,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T12:59:54Z",
+            "last_commit": "2026-08-17T09:47:42Z",
             "owner": "runapi-ai",
             "repo": "cli-skill",
             "stars": 2
@@ -1174,10 +1216,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T06:59:11Z",
+            "last_commit": "2026-08-17T07:05:49Z",
             "owner": "supernovae-st",
             "repo": "nika",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -1202,7 +1244,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-16T04:32:50Z",
+            "last_commit": "2026-08-17T05:03:36Z",
             "owner": "0xrsydn",
             "repo": "nix-hermes-agent",
             "stars": 40
@@ -1239,7 +1281,7 @@
             "last_commit": "2026-08-11T17:13:26Z",
             "owner": "internet-court",
             "repo": "internet-court-skill",
-            "stars": 2715
+            "stars": 3418
           }
         },
         {
@@ -1250,7 +1292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-14T19:53:21Z",
+            "last_commit": "2026-08-17T16:36:27Z",
             "owner": "smartcontractkit",
             "repo": "chainlink-agent-skills",
             "stars": 124
@@ -1264,10 +1306,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:00:17Z",
+            "last_commit": "2026-08-16T21:33:14Z",
             "owner": "avansaber",
             "repo": "erpclaw",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -1385,7 +1427,7 @@
             "last_commit": "2025-12-31T14:58:10Z",
             "owner": "1ilkhamov",
             "repo": "opencode-hermes-multiagent",
-            "stars": 178
+            "stars": 179
           }
         },
         {
@@ -1430,10 +1472,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:59:28Z",
+            "last_commit": "2026-08-17T12:16:43Z",
             "owner": "raulvidis",
             "repo": "hermes-android",
-            "stars": 465
+            "stars": 466
           }
         },
         {
@@ -1489,7 +1531,7 @@
             "last_commit": "2026-03-15T07:43:31Z",
             "owner": "Snehal707",
             "repo": "Hermes-mars-rover",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
@@ -1501,7 +1543,7 @@
         {
           "node_type": "item",
           "title": "Anthropic-Cybersecurity-Skills",
-          "description": "by mukul975 — 753+ structured cybersecurity skills mapped to MITRE ATT&CK. 27k★. [production]",
+          "description": "by mukul975 — 753+ structured cybersecurity skills mapped to MITRE ATT&CK. 28k★. [production]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1509,7 +1551,7 @@
             "last_commit": "2026-08-08T14:55:19Z",
             "owner": "mukul975",
             "repo": "Anthropic-Cybersecurity-Skills",
-            "stars": 27964
+            "stars": 28283
           }
         },
         {
@@ -1534,10 +1576,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-10T16:56:14Z",
+            "last_commit": "2026-08-17T15:22:58Z",
             "owner": "resemble-ai",
             "repo": "detect-skill",
-            "stars": 51
+            "stars": 53
           }
         },
         {
@@ -1571,7 +1613,7 @@
             "last_commit": "2026-04-05T03:17:32Z",
             "owner": "Hmbown",
             "repo": "Wizards-of-the-Ghosts",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -1591,7 +1633,7 @@
         {
           "node_type": "item",
           "title": "colony-skill",
-          "description": "by TheColonyCC — Collaborative intelligence platform. AI + humans post findings, complete tasks, build reputation. [beta]",
+          "description": "by TheColonyAI — Collaborative intelligence platform. AI + humans post findings, complete tasks, build reputation. [beta]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1633,7 +1675,7 @@
             "last_commit": "2026-08-14T20:38:13Z",
             "owner": "OthmanAdi",
             "repo": "planning-with-files",
-            "stars": 26199
+            "stars": 26209
           }
         },
         {
@@ -1644,10 +1686,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T06:55:45Z",
+            "last_commit": "2026-08-17T16:39:52Z",
             "owner": "a5c-ai",
             "repo": "babysitter",
-            "stars": 1692
+            "stars": 1699
           }
         },
         {
@@ -1658,10 +1700,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:56:20Z",
+            "last_commit": "2026-08-17T19:14:45Z",
             "owner": "Signet-AI",
             "repo": "signetai",
-            "stars": 246
+            "stars": 249
           }
         },
         {
@@ -1703,7 +1745,7 @@
             "last_commit": "2026-06-24T17:58:27Z",
             "owner": "8bit64k",
             "repo": "cronalytics",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -1745,7 +1787,7 @@
             "last_commit": "2026-08-09T04:54:15Z",
             "owner": "nujovich",
             "repo": "hermes-telemetry",
-            "stars": 26
+            "stars": 28
           }
         },
         {
@@ -1793,7 +1835,7 @@
             "last_commit": "2026-06-27T03:03:56Z",
             "owner": "magnus919",
             "repo": "hermes-profiles",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -1807,7 +1849,7 @@
             "last_commit": "2026-08-13T16:27:38Z",
             "owner": "AtlasOmnia",
             "repo": "donna-starter",
-            "stars": 72
+            "stars": 74
           }
         },
         {
@@ -1818,10 +1860,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:45:38Z",
+            "last_commit": "2026-08-17T10:51:53Z",
             "owner": "Strategic-Automation",
             "repo": "violin",
-            "stars": 64
+            "stars": 67
           }
         },
         {
@@ -1863,7 +1905,7 @@
             "last_commit": "2026-07-23T09:14:07Z",
             "owner": "codegraphtheory",
             "repo": "heavy-coder",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -1908,10 +1950,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:34:38Z",
+            "last_commit": "2026-08-17T15:29:26Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 20036
+            "stars": 20099
           }
         },
         {
@@ -1925,7 +1967,7 @@
             "last_commit": "2026-06-10T10:40:43Z",
             "owner": "ClaudioDrews",
             "repo": "memory-os",
-            "stars": 1323
+            "stars": 1327
           }
         },
         {
@@ -1950,10 +1992,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T13:38:14Z",
+            "last_commit": "2026-08-17T16:21:50Z",
             "owner": "plur-ai",
             "repo": "plur",
-            "stars": 237
+            "stars": 239
           }
         },
         {
@@ -1967,7 +2009,7 @@
             "last_commit": "2026-08-15T10:35:01Z",
             "owner": "410979729",
             "repo": "scope-recall-hermes",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -1978,10 +2020,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:49:41Z",
+            "last_commit": "2026-08-17T19:14:54Z",
             "owner": "joshuaswarren",
             "repo": "remnic",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -2009,7 +2051,7 @@
             "last_commit": "2026-05-15T15:16:16Z",
             "owner": "beiyuii",
             "repo": "personal-api-skill",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -2028,16 +2070,30 @@
         },
         {
           "node_type": "item",
+          "title": "LWC",
+          "description": "by JanYork — Proactive source-grounded project memory with SQLite/FTS5 recall, optional document and code graphs, plus Hermes-native MCP, skill and hook integration. [beta]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-15T10:52:40Z",
+            "owner": "JanYork",
+            "repo": "llm-wiki-cli",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
           "title": "agentcairn",
           "description": "by ccf — Long-term cross-project memory backed by your own Obsidian vault. Daemonless, plain files, no opaque store. [beta]",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T21:58:35Z",
+            "last_commit": "2026-08-17T04:30:26Z",
             "owner": "ccf",
             "repo": "agentcairn",
-            "stars": 35
+            "stars": 37
           }
         },
         {
@@ -2110,10 +2166,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T19:08:11Z",
+            "last_commit": "2026-08-17T19:13:31Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 20965
+            "stars": 20990
           }
         },
         {
@@ -2124,10 +2180,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:22:32Z",
+            "last_commit": "2026-08-17T11:00:41Z",
             "owner": "nesquena",
             "repo": "hermes-webui",
-            "stars": 17390
+            "stars": 17421
           }
         },
         {
@@ -2138,10 +2194,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T15:04:40Z",
+            "last_commit": "2026-08-17T14:07:10Z",
             "owner": "EKKOLearnAI",
             "repo": "hermes-studio",
-            "stars": 10314
+            "stars": 10365
           }
         },
         {
@@ -2273,7 +2329,7 @@
             "last_commit": "2026-08-08T04:42:37Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6447
+            "stars": 6452
           }
         },
         {
@@ -2284,10 +2340,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:05:50Z",
+            "last_commit": "2026-08-17T00:25:44Z",
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6011
+            "stars": 6020
           }
         },
         {
@@ -2301,18 +2357,18 @@
             "last_commit": "2026-06-19T10:52:35Z",
             "owner": "dodo-reach",
             "repo": "hermes-desktop",
-            "stars": 1993
+            "stars": 1994
           }
         },
         {
           "node_type": "item",
           "title": "portable-hermes-agent",
-          "description": "by rookiemann — Windows desktop app bundling 100 tools, GUI, local models, ComfyUI in a portable package. [beta]",
+          "description": "by aivrar — Windows desktop app bundling 100 tools, GUI, local models, ComfyUI in a portable package. [beta]",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:45:52Z",
+            "last_commit": "2026-08-17T01:12:24Z",
             "owner": "aivrar",
             "repo": "portable-hermes-agent",
             "stars": 206
@@ -2329,7 +2385,7 @@
             "last_commit": "2026-06-30T09:54:59Z",
             "owner": "pyrate-llama",
             "repo": "hermes-ui",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -2377,7 +2433,7 @@
             "last_commit": "2026-08-06T15:26:00Z",
             "owner": "agentplugins",
             "repo": "agent-plugins-spec",
-            "stars": 1041
+            "stars": 1059
           }
         },
         {
@@ -2425,7 +2481,7 @@
             "last_commit": "2026-06-30T18:24:52Z",
             "owner": "amanning3390",
             "repo": "hermeshub",
-            "stars": 20
+            "stars": 21
           }
         }
       ],
@@ -2442,10 +2498,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T19:04:43Z",
+            "last_commit": "2026-08-17T19:15:36Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 231425
+            "stars": 231938
           }
         },
         {
@@ -2486,9 +2542,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:10:34.612Z",
+    "last_updated": "2026-08-17T19:17:49.449Z",
     "original_repository": "ZeroPointRepo/awesome-hermes-skills",
-    "original_repository_sha": "6cb47f093f8e675ad2a66b0b3cdb1b9585ddfbaa",
+    "original_repository_sha": "d23335478e60a1d65fedbbc5ad5f06b0303207a7",
     "enhanced_repository": "enhansome/enhansome-hermes-skills",
     "enhanced_repository_description": null,
     "title": "Awesome Hermes Skills with stars"
