@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes Agent, and other agent runtimes.",
+                "homepage": "https://transcriptapi.com",
                 "id": 1147294830,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T23:05:27Z",
+                "open_issues": 3,
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 580
+                "stars": 580,
+                "topics": [
+                  "agent-skills",
+                  "clawdbot",
+                  "hermes-agent",
+                  "openclaw",
+                  "youtube-search",
+                  "youtube-transcript"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -28,12 +40,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spotify playback control skill for Hermes Agent — search, play, pause, skip, volume, transfer between devices. Linux & Raspberry Pi 4/5. Works with raspotify for Pi-as-speaker. Have fun!",
+                "homepage": null,
                 "id": 1206422456,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-02T22:13:02Z",
+                "open_issues": 1,
                 "owner": "Alexeyisme",
                 "repo": "hermes-spotify-skill",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ai-agent",
+                  "hermes-agent",
+                  "hermes-skill",
+                  "linux",
+                  "music",
+                  "openclaw",
+                  "raspberry-pi",
+                  "raspotify",
+                  "smart-home",
+                  "spotify",
+                  "spotify-api",
+                  "spotipy",
+                  "voice-assistant"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -51,12 +82,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option.",
+                "homepage": "https://websearchplus.xyz",
                 "id": 1184318458,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T15:01:24Z",
+                "open_issues": 0,
                 "owner": "robbyczgw-cla",
                 "repo": "hermes-web-search-plus",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "ai-agents",
+                  "donsetch",
+                  "hermes-agent",
+                  "mcp",
+                  "python",
+                  "research-agent",
+                  "search-api",
+                  "searxng",
+                  "source-grounding",
+                  "web-extraction",
+                  "web-search"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -67,12 +115,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.",
+                "homepage": "https://hermes-agent.nousresearch.com",
                 "id": 1293924437,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:30:55Z",
+                "open_issues": 0,
                 "owner": "moonlight-lupin",
                 "repo": "agent-skills",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "agent-ops",
+                  "agent-skills",
+                  "ai-agent",
+                  "ai-agent-skills",
+                  "automation",
+                  "claude-code",
+                  "hermes",
+                  "llm",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -83,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remote MCP server for Not Human Search — search the agentic web. Install: claude mcp add --transport http nothumansearch https://nothumansearch.ai/mcp",
+                "homepage": null,
                 "id": 1211102327,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-15T04:31:35Z",
+                "open_issues": 0,
                 "owner": "unitedideas",
                 "repo": "nothumansearch-mcp",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -99,12 +167,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect Consensus (200M+ research papers) to Hermes Agent via MCP. OAuth setup guide with mcp-remote bridge.",
+                "homepage": null,
                 "id": 1282317358,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-18T14:35:45Z",
+                "open_issues": 0,
                 "owner": "ahmdngi",
                 "repo": "consensus-mcp-hermes",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "consensus",
+                  "hermes-agent",
+                  "mcp",
+                  "mcp-server",
+                  "oauth",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -115,12 +195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scavio for Hermes Agent - structured web data across 31 platforms via the hosted MCP server, plus 5 ready-to-use workflow skills.",
+                "homepage": null,
                 "id": 1339287988,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-19T08:14:26Z",
+                "open_issues": 0,
                 "owner": "scavio-ai",
                 "repo": "hermes-agent",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -138,12 +223,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+                "homepage": "https://notfair.co/",
                 "id": 1193374549,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T00:18:45Z",
+                "open_issues": 12,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3427
+                "stars": 3427,
+                "topics": [
+                  "agents",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "gemini-cli-extension",
+                  "geo",
+                  "googleads",
+                  "googleadsmcp",
+                  "mcp",
+                  "metaads",
+                  "seo"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -154,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make your first genuine dollar online using Hermes Agent.",
+                "homepage": null,
                 "id": 1314958683,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:11:16Z",
+                "open_issues": 0,
                 "owner": "33hodl",
                 "repo": "hermes-startup",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -179,12 +285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -195,12 +306,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -211,12 +327,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -227,12 +348,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -243,12 +369,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -259,12 +390,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -275,12 +411,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -291,12 +432,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -307,12 +453,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -323,12 +474,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -339,12 +495,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -355,12 +516,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -371,12 +537,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -387,12 +558,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -403,12 +579,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -419,12 +600,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -435,12 +621,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -451,12 +642,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -467,12 +663,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -483,12 +684,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -499,12 +705,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -515,12 +726,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -531,12 +747,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "homepage": "https://aihero.dev/skills",
                     "id": 1148788086,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T14:20:17Z",
+                    "open_issues": 437,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 240258
+                    "stars": 240338,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 }
@@ -554,12 +775,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+                    "homepage": null,
                     "id": 1206566990,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T08:48:07Z",
+                    "open_issues": 34,
                     "owner": "AMAP-ML",
                     "repo": "SkillClaw",
-                    "stars": 2528
+                    "stars": 2529,
+                    "topics": [
+                      "agent",
+                      "agentic-ai",
+                      "ai-agent",
+                      "collective-intelligence",
+                      "continual-learning",
+                      "hermes",
+                      "llm",
+                      "llms",
+                      "openclaw",
+                      "self-evolving",
+                      "skill-evolution",
+                      "skill-learning",
+                      "skills"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -570,12 +810,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
+                    "homepage": "https://skills.wondel.ai",
                     "id": 1145158024,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T18:45:15Z",
+                    "open_issues": 8,
                     "owner": "wondelai",
                     "repo": "skills",
-                    "stars": 2047
+                    "stars": 2047,
+                    "topics": [
+                      "agent-skills",
+                      "ai-skills",
+                      "business",
+                      "claude-code",
+                      "claude-code-marketplace",
+                      "claude-code-plugin",
+                      "claude-code-skills",
+                      "claude-plugins",
+                      "claude-skills",
+                      "code-quality",
+                      "frameworks",
+                      "marketing",
+                      "product-strategy",
+                      "skill-md",
+                      "skillsmp",
+                      "ux"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -586,12 +848,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+                    "homepage": "https://vostride.com",
                     "id": 1232322871,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-03T18:44:59Z",
+                    "open_issues": 0,
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 904
+                    "stars": 913,
+                    "topics": [
+                      "ai-agents",
+                      "ai-testing",
+                      "anthropic",
+                      "autonomous-agents",
+                      "browser-automation",
+                      "chatgpt",
+                      "claude-code",
+                      "clawdbot",
+                      "codex",
+                      "developer-tools",
+                      "dsh-plugin",
+                      "end-to-end-testing",
+                      "frontend",
+                      "mcp",
+                      "mcp-server",
+                      "mcp-tools",
+                      "model-context-protocol",
+                      "openai",
+                      "playwright",
+                      "qa-automation"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -602,12 +890,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A meta-skill plugin for Nous Research's Hermes AI agent that watches your workflows and automatically turns them into reusable skills.  Every time you work with Hermes and solve something — setting up a project, debugging code, creating a PR — that   workflow disappears at the end of the session. You have to explain it again next time.",
+                    "homepage": null,
                     "id": 1185283077,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-18T13:13:38Z",
+                    "open_issues": 5,
                     "owner": "Romanescu11",
                     "repo": "hermes-skill-factory",
-                    "stars": 542
+                    "stars": 542,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -618,12 +911,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Skills that teach Hermes Agent to write its own analytical prompts",
+                    "homepage": null,
                     "id": 1174539837,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2026-07-27T17:15:52Z",
+                    "open_issues": 0,
                     "owner": "Cranot",
                     "repo": "super-hermes",
-                    "stars": 413
+                    "stars": 414,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -634,12 +932,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This package implements Agent Skills (https://agentskills.io) support with progressive disclosure for Pydantic AI. Supports filesystem and programmatic skills.",
+                    "homepage": "https://dougtrajano.github.io/pydantic-ai-skills/",
                     "id": 1118556483,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T08:11:09Z",
+                    "open_issues": 1,
                     "owner": "DougTrajano",
                     "repo": "pydantic-ai-skills",
-                    "stars": 363
+                    "stars": 363,
+                    "topics": [
+                      "agent-framework",
+                      "agent-skills",
+                      "agentic-ai",
+                      "ai-agents",
+                      "claude-code",
+                      "pydantic-ai",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -650,12 +961,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RTK plugin for Hermes — rewrites shell commands for 60-90% LLM token savings",
+                    "homepage": null,
                     "id": 1201690071,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-04T13:22:41Z",
+                    "open_issues": 4,
                     "owner": "ogallotti",
                     "repo": "rtk-hermes",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -666,12 +982,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent",
+                    "homepage": null,
                     "id": 1178434749,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-04-10T02:24:09Z",
+                    "open_issues": 0,
                     "owner": "tlehman",
                     "repo": "litprog-skill",
-                    "stars": 254
+                    "stars": 254,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -682,12 +1003,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Local-first coordination for human and agent work: durable work, decisions, dispatches, evidence, and prompt-first methods, powered by TypeScript and Bun.",
+                    "homepage": null,
                     "id": 1119669000,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-29T00:59:53Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:20:37Z",
+                    "open_issues": 6,
                     "owner": "ReinaMacCredy",
                     "repo": "maestro",
-                    "stars": 230
+                    "stars": 230,
+                    "topics": [
+                      "agent-harness",
+                      "agent-skills",
+                      "ai-agents",
+                      "ai-coding-agents",
+                      "claude-code",
+                      "cli",
+                      "codex",
+                      "conductor",
+                      "harness-engineering",
+                      "harness-os",
+                      "hermes",
+                      "hermes-agent",
+                      "local-first",
+                      "mcp",
+                      "orchestration",
+                      "plugin",
+                      "typescript",
+                      "workflow"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -698,12 +1043,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-improvement system for Hermes Agent. Monitors performance, finds weak skills, fixes them with self-evolution, reports results.",
+                    "homepage": null,
                     "id": 1181270882,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-06T05:14:57Z",
+                    "open_issues": 0,
                     "owner": "Yonkoo11",
                     "repo": "hermes-dojo",
-                    "stars": 156
+                    "stars": 156,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -714,12 +1064,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A standalone BMAD module that transforms code repositories, documentation websites, and developer discourse into agentskills.io-compliant, version-pinned, provenance-backed agent skills.",
+                    "homepage": "https://armelhbobdad.github.io/bmad-module-skill-forge/",
                     "id": 1157249238,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-11T08:06:24Z",
+                    "open_issues": 1,
                     "owner": "armelhbobdad",
                     "repo": "bmad-module-skill-forge",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": [
+                      "agent-skills",
+                      "agents",
+                      "agentskills",
+                      "ast-grep",
+                      "bmad",
+                      "bmad-method",
+                      "bmad-module",
+                      "cocoindex",
+                      "cocoindex-code",
+                      "code-analysis",
+                      "compilation",
+                      "forge",
+                      "provenance",
+                      "qmd",
+                      "skill-forge",
+                      "skills"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -730,12 +1102,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An [Agent Skill](https://agentskills.io) that enables AI coding agents to tackle complex, long-running implementation tasks autonomously.",
+                    "homepage": null,
                     "id": 1119874845,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-12-20T02:41:28Z",
+                    "open_issues": 0,
                     "owner": "tiann",
                     "repo": "execplan-skill",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -746,12 +1123,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts — catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, deterministic checks, built for CI.",
+                    "homepage": "https://lintlang.ai",
                     "id": 1168980518,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T20:57:17Z",
+                    "open_issues": 5,
                     "owner": "hermes-labs-ai",
                     "repo": "lintlang",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "agent-config",
+                      "agent-linter",
+                      "ai-agents",
+                      "ai-audit",
+                      "ai-reliability",
+                      "ai-safety",
+                      "ci-cd",
+                      "github-code-scanning",
+                      "hermes-labs",
+                      "linter",
+                      "llm-ops",
+                      "llm-safety",
+                      "prompt-engineering",
+                      "prompt-linter",
+                      "quality-gate",
+                      "sarif",
+                      "static-analysis",
+                      "system-prompts",
+                      "tool-descriptions",
+                      "zero-llm"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -762,12 +1165,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Agentic-MCP, Progressive MCP client with three-layer lazy loading. Validates AgentSkills.io pattern for efficient token usage. Use MCP without pre-install & wasting full-loading",
+                    "homepage": null,
                     "id": 1132679756,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-21T06:07:30Z",
+                    "open_issues": 0,
                     "owner": "cablate",
                     "repo": "Agentic-MCP-Skill",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "agentskill",
+                      "agentskills",
+                      "lazy-loading",
+                      "mcp",
+                      "mcp-server",
+                      "model-context-protocol",
+                      "skill",
+                      "skills"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -778,12 +1195,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.",
+                    "homepage": "https://hermes-agent.nousresearch.com",
                     "id": 1293924437,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T14:30:55Z",
+                    "open_issues": 0,
                     "owner": "moonlight-lupin",
                     "repo": "agent-skills",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "agent-ops",
+                      "agent-skills",
+                      "ai-agent",
+                      "ai-agent-skills",
+                      "automation",
+                      "claude-code",
+                      "hermes",
+                      "llm",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -794,12 +1226,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Claude Code plugin for bridging with Evey (hermes-agent). Auto-checks messages, Mother Mode loop, quick status.",
+                    "homepage": null,
                     "id": 1187541680,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-18T05:50:41Z",
+                    "open_issues": 1,
                     "owner": "42-evey",
                     "repo": "evey-bridge-plugin",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -810,12 +1247,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.",
+                    "homepage": "https://hermes-agent.nousresearch.com",
                     "id": 1293924437,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T14:30:55Z",
+                    "open_issues": 0,
                     "owner": "moonlight-lupin",
                     "repo": "agent-skills",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "agent-ops",
+                      "agent-skills",
+                      "ai-agent",
+                      "ai-agent-skills",
+                      "automation",
+                      "claude-code",
+                      "hermes",
+                      "llm",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -826,12 +1278,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.",
+                    "homepage": "https://hermes-agent.nousresearch.com",
                     "id": 1293924437,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T14:30:55Z",
+                    "open_issues": 0,
                     "owner": "moonlight-lupin",
                     "repo": "agent-skills",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "agent-ops",
+                      "agent-skills",
+                      "ai-agent",
+                      "ai-agent-skills",
+                      "automation",
+                      "claude-code",
+                      "hermes",
+                      "llm",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -842,12 +1309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hermes Agent Hackathon: RealWorldTaskEnv — generate agentic training trajectories from real-world tasks for Hermes 4 fine-tuning",
+                    "homepage": null,
                     "id": 1182086409,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-15T02:43:05Z",
+                    "open_issues": 0,
                     "owner": "beardthelion",
                     "repo": "hermes-skill-distillation",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -858,12 +1330,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C# implementation of agent skills (agentskills.io) with MCP integration and convenience.",
+                    "homepage": null,
                     "id": 1158576144,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2026-05-09T15:06:10Z",
+                    "open_issues": 1,
                     "owner": "PederHP",
                     "repo": "skillsdotnet",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "agents",
+                      "agentskills",
+                      "ai",
+                      "mcp",
+                      "skills"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -874,12 +1357,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hermes Agent skill for safely delegating repository work to Cursor CLI (agent), utilizing the newest Grok models.",
+                    "homepage": "https://github.com/matdev83/hermes-cursor-dispatcher",
                     "id": 1305893816,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-19T20:57:59Z",
+                    "open_issues": 0,
                     "owner": "matdev83",
                     "repo": "hermes-cursor-dispatcher",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "agent-skills",
+                      "agentskills",
+                      "ai-agent",
+                      "cursor-cli",
+                      "cursor-composer",
+                      "git-worktree",
+                      "grok",
+                      "hermes-agent",
+                      "nous-hermes",
+                      "software-development-agent"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 },
@@ -890,12 +1389,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Windows 上 agent 终端命令防卡死清单：超时、非交互、pty、编码、路径自检 + 快速恢复",
+                    "homepage": null,
                     "id": 1332340643,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-08-12T18:43:09Z",
+                    "open_issues": 0,
                     "owner": "vollegrewar",
                     "repo": "windows-terminal-hygiene",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
                 }
@@ -918,12 +1422,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Built from the ground-up for agents, Vessel Browser is an open source AI browser for Linux/Mac/Windows that provides a durable state, MCP control, and BYOK with full autonomous browsing. Use with Hermes Agent, OpenClaw, or connect to your favorite API provider.",
+                "homepage": "https://quantaintellect.com",
                 "id": 1175081210,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T16:56:01Z",
+                "open_issues": 8,
                 "owner": "unmodeled-tyler",
                 "repo": "vessel-browser",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "agents",
+                  "ai-agents",
+                  "ai-browser",
+                  "ai-browser-automation",
+                  "ai-mcp-browser",
+                  "ai-web-browser",
+                  "autonomous-agents",
+                  "byok",
+                  "claude-mcp",
+                  "codex-mcp",
+                  "hermes-agent-mcp",
+                  "linux",
+                  "llm-agents",
+                  "mac-universal",
+                  "mcp-server",
+                  "openclaw-mcp",
+                  "web-browser"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -934,12 +1461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudflare Browser Rendering plugin for hermes-agent — crawl, scrape, extract content from web pages",
+                "homepage": null,
                 "id": 1185320878,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T02:00:14Z",
+                "open_issues": 0,
                 "owner": "raulvidis",
                 "repo": "hermes-cloudflare",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -950,12 +1482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hermes Agent plugin — switch browser tools between Chrome profiles via CDP",
+                "homepage": null,
                 "id": 1184570043,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-31T18:01:57Z",
+                "open_issues": 2,
                 "owner": "anpicasso",
                 "repo": "hermes-plugin-chrome-profiles",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -973,12 +1510,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenClaw plugin for Twitter search, follower exports, monitoring & approved X actions. Not affiliated with X Corp.",
+                "homepage": "https://xquik.com",
                 "id": 1180792440,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T21:17:59Z",
+                "open_issues": 1,
                 "owner": "Xquik-dev",
                 "repo": "tweetclaw",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "ai-agent",
+                  "automation",
+                  "clawhub",
+                  "context7",
+                  "data-extraction",
+                  "follower-export",
+                  "giveaway",
+                  "openclaw",
+                  "openclaw-plugin",
+                  "skills",
+                  "social-media",
+                  "tweet-search",
+                  "tweetclaw",
+                  "twitter",
+                  "twitter-api",
+                  "twitter-automation",
+                  "twitter-search",
+                  "x",
+                  "x-api",
+                  "xquik"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -989,12 +1552,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hermes Agent plugin for Twitter search, monitoring, follower exports & approved X actions. Not affiliated with X Corp.",
+                "homepage": "https://github.com/Xquik-dev/hermes-tweet#readme",
                 "id": 1230366935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T20:38:28Z",
+                "open_issues": 3,
                 "owner": "Xquik-dev",
                 "repo": "hermes-tweet",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "agent-skill",
+                  "agent-tools",
+                  "ai-agent",
+                  "automation",
+                  "follower-export",
+                  "hermes",
+                  "hermes-agent",
+                  "hermes-plugin",
+                  "python",
+                  "social-media",
+                  "social-media-api",
+                  "social-media-automation",
+                  "tweet-search",
+                  "twitter",
+                  "twitter-api",
+                  "twitter-automation",
+                  "x-api",
+                  "x-automation",
+                  "x-twitter",
+                  "xquik"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1005,12 +1594,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microsoft Graph API skill for Hermes Agent — Outlook Calendar, Mail, Contacts integration",
+                "homepage": null,
                 "id": 1210846354,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-14T20:52:57Z",
+                "open_issues": 2,
                 "owner": "Andrew-Girgis",
                 "repo": "microsoft-workspace-skill",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "calendar",
+                  "email",
+                  "hermes-skill",
+                  "hotmail",
+                  "microsoft-graph",
+                  "oauth2",
+                  "outlook",
+                  "productivity"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1021,12 +1624,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "X (Twitter) skill for Claude Code, Cursor & OpenClaw — read tweets, search, real-time monitors, bulk exports, and posting. Paid per call in USDC. No API key, no X developer account.",
+                "homepage": "https://twitr.sh",
                 "id": 1313069417,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-02T11:16:14Z",
+                "open_issues": 0,
                 "owner": "lnvestor",
                 "repo": "twitr-skills",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "claude-code",
+                  "claude-skills",
+                  "cursor",
+                  "hermes-skills",
+                  "mcp",
+                  "openclaw",
+                  "scraper",
+                  "skills",
+                  "twitter",
+                  "twitter-api",
+                  "twitter-bot",
+                  "twitter-data",
+                  "twitter-scraper",
+                  "web-scraping",
+                  "x-api",
+                  "x-scraper",
+                  "x402",
+                  "x402-payments"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1037,12 +1666,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Telegram checklists (To-Do lists) for AI agents - create, read, append and toggle interactive checklist messages in chats and forum topics via a Telethon user session",
+                "homepage": null,
                 "id": 1307878614,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-21T16:57:26Z",
+                "open_issues": 0,
                 "owner": "johnsje183",
                 "repo": "hermes-telegram-checklist",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "agent-skill",
+                  "agentskills",
+                  "checklist",
+                  "hermes-agent",
+                  "mtproto",
+                  "telegram",
+                  "telethon",
+                  "todo"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1053,12 +1696,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claw-Social Hermes Plugin — social discovery for AI agents",
+                "homepage": null,
                 "id": 1209071081,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-01T03:39:06Z",
+                "open_issues": 0,
                 "owner": "mrpeter2025",
                 "repo": "clawsocial-hermes-plugin",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ai-agent",
+                  "claw-social",
+                  "clawsocial",
+                  "hermes",
+                  "hermes-agent",
+                  "hermes-plugin",
+                  "messaging",
+                  "nous-research",
+                  "openclaw",
+                  "plugin",
+                  "real-time",
+                  "social-discovery",
+                  "social-network",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1069,12 +1732,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Post images, add notes, let the thread run, then @ it — Hermes Tag pulls the few messages that matter (originals + your notes + relevant replies), not your last line, not your whole history. Claude-Tag-style context-selection for Hermes on Feishu/Lark & Slack — @-only, no full-history RAG, per-chat memory + audit.",
+                "homepage": null,
                 "id": 1280024384,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-09T07:05:35Z",
+                "open_issues": 4,
                 "owner": "DanielLi202",
                 "repo": "hermes-tag",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ai-agent",
+                  "chatops",
+                  "claude-tag",
+                  "context-engineering",
+                  "feishu",
+                  "feishu-bot",
+                  "hermes",
+                  "hermes-agent",
+                  "lark",
+                  "lark-bot",
+                  "llm",
+                  "plugin",
+                  "python",
+                  "rag",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1085,12 +1769,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful Famulor skill for seamless integration and automation of the Famulor AI platform.",
+                "homepage": "https://www.famulor.io",
                 "id": 1191583165,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-23T15:45:35Z",
+                "open_issues": 0,
                 "owner": "bekservice",
                 "repo": "Famulor-Skill",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "agent-plugin",
+                  "agent-skills",
+                  "claude-code",
+                  "claude-skills",
+                  "cursor-plugin",
+                  "gemini-cli-extension",
+                  "mcp",
+                  "mcp-server",
+                  "openclaw-skill",
+                  "skill",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1108,12 +1809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                "homepage": "https://aihero.dev/skills",
                 "id": 1148788086,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-24T14:20:17Z",
+                "open_issues": 437,
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 240258
+                "stars": 240338,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1124,12 +1830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skills for Real Engineers. Straight from my .agents directory.",
+                "homepage": "https://aihero.dev/skills",
                 "id": 1148788086,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-24T14:20:17Z",
+                "open_issues": 437,
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 240258
+                "stars": 240338,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1140,12 +1851,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom plugins for hermes-agent — goal management, inter-agent bridge, model selection, cost control",
+                "homepage": "https://evey.cc",
                 "id": 1190546286,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-18T05:50:32Z",
+                "open_issues": 0,
                 "owner": "42-evey",
                 "repo": "hermes-plugins",
-                "stars": 441
+                "stars": 441,
+                "topics": [
+                  "ai-agent",
+                  "autonomous-agent",
+                  "hermes-agent",
+                  "open-source",
+                  "plugins"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1156,12 +1878,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hermes dashboard plugin for Agent Analytics — account connection, project selection, and read-only analytics inside Hermes.",
+                "homepage": null,
                 "id": 1216401140,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-23T18:07:28Z",
+                "open_issues": 0,
                 "owner": "Agent-Analytics",
                 "repo": "agent-analytics-hermes-plugin",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1172,12 +1899,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source AI coding skill that reviews product and feature risk before agents start building.",
+                "homepage": "https://beforeyoubuild.fyi/en/skill",
                 "id": 1248189340,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-01T16:03:02Z",
+                "open_issues": 0,
                 "owner": "bin1874",
                 "repo": "before-you-build-skill",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "claude-code",
+                  "codex",
+                  "coding-agents",
+                  "cursor",
+                  "indie-hackers",
+                  "product-validation",
+                  "saas",
+                  "startup"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1188,12 +1931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Installable agent skills for Wordbricks and Velen workflows",
+                "homepage": null,
                 "id": 1177512949,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-28T04:51:58Z",
+                "open_issues": 0,
                 "owner": "wordbricks",
                 "repo": "skills",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1211,12 +1959,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build better UI with AI",
+                "homepage": "https://www.typeui.sh",
                 "id": 1171412548,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-04T10:11:58Z",
+                "open_issues": 1,
                 "owner": "bergside",
                 "repo": "typeui",
-                "stars": 1839
+                "stars": 1840,
+                "topics": [
+                  "agent-skills",
+                  "ai",
+                  "ai-tools",
+                  "claude-design",
+                  "cli",
+                  "codex",
+                  "design",
+                  "design-md",
+                  "design-system",
+                  "design-tools",
+                  "gemini",
+                  "gemini-cli-extension",
+                  "google-stitch",
+                  "skills",
+                  "terminal",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1227,12 +1997,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
+                "homepage": "https://orkas.ai?source=github",
                 "id": 1285161033,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:25:25Z",
+                "open_issues": 1,
                 "owner": "Orkas-AI",
                 "repo": "Orkas-VideoStudio",
-                "stars": 524
+                "stars": 524,
+                "topics": [
+                  "ai-agents",
+                  "ai-video",
+                  "cli",
+                  "coding-agents",
+                  "ffmpeg",
+                  "generative-ai",
+                  "hyperframes",
+                  "local-first",
+                  "mcp-server",
+                  "motion-graphics",
+                  "open-source",
+                  "subtitles",
+                  "text-to-video",
+                  "tts",
+                  "typescript",
+                  "video-automation",
+                  "video-composition",
+                  "video-editing",
+                  "video-generation",
+                  "whisper-cpp"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1243,12 +2039,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official agent skills from Black Forest Labs for FLUX image and video generation — prompting guides and API integration patterns for Claude Code, Codex, and any agentskills.io-compatible agent.",
+                "homepage": "https://docs.bfl.ai",
                 "id": 1140927044,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T22:07:32Z",
+                "open_issues": 2,
                 "owner": "black-forest-labs",
                 "repo": "skills",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "claude-code",
+                  "flux",
+                  "generative-ai",
+                  "image-generation",
+                  "prompt-engineering",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1259,12 +2069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hermes Agent weather plugin — NWS-grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust stack.",
+                "homepage": null,
                 "id": 1188833195,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-05T01:30:52Z",
+                "open_issues": 3,
                 "owner": "FahrenheitResearch",
                 "repo": "hermes-weather-plugin",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1275,12 +2090,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.",
+                "homepage": "https://uizze.com",
                 "id": 1301842069,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T10:14:01Z",
+                "open_issues": 0,
                 "owner": "uizze",
                 "repo": "uizze",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-coding",
+                  "anti-ui-slop",
+                  "claude-code",
+                  "codex",
+                  "cursor",
+                  "design-systems",
+                  "developer-tools",
+                  "frontend",
+                  "github-actions",
+                  "github-copilot",
+                  "ios-design",
+                  "mcp-server",
+                  "skills",
+                  "ui-design",
+                  "ui-quality",
+                  "ui-reference",
+                  "ui-slop",
+                  "web-design"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1291,12 +2132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hermes Agent ML pipeline plugin — build training datasets from HRRR/GFS/ERA5. Powered by wxforge (all Rust).",
+                "homepage": null,
                 "id": 1188833209,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-22T19:34:42Z",
+                "open_issues": 0,
                 "owner": "FahrenheitResearch",
                 "repo": "hermes-wxtrain-plugin",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1307,12 +2153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1241246510,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T17:18:20Z",
+                "open_issues": 0,
                 "owner": "brajendrak00068",
                 "repo": "agentic-ai-video-production",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1323,12 +2174,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RunAPI CLI skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+                "homepage": "https://runapi.ai/models",
                 "id": 1243614646,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T09:47:42Z",
+                "open_issues": 0,
                 "owner": "runapi-ai",
                 "repo": "cli-skill",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "api",
+                  "claude-code",
+                  "claude-skills",
+                  "cli",
+                  "codex",
+                  "gemini-cli",
+                  "runapi",
+                  "runapi-ai",
+                  "skill"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1339,12 +2205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1284114363,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-29T14:53:35Z",
+                "open_issues": 0,
                 "owner": "kwanmxiii-bit",
                 "repo": "Loras-training-tap-skill",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1362,12 +2233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get a hermes-agent stack running in minutes. Free models, 29 plugins, zero cost.",
+                "homepage": null,
                 "id": 1187563922,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-18T05:50:36Z",
+                "open_issues": 2,
                 "owner": "42-evey",
                 "repo": "evey-setup",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1378,12 +2254,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋",
+                "homepage": "https://nika.sh",
                 "id": 1126625946,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T09:28:46Z",
+                "open_issues": 45,
                 "owner": "supernovae-st",
                 "repo": "nika",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "ai-workflows",
+                  "automation",
+                  "cli",
+                  "dag",
+                  "developer-tools",
+                  "devops",
+                  "llm",
+                  "local-ai",
+                  "mcp",
+                  "ollama",
+                  "rust",
+                  "self-hosted",
+                  "structured-output",
+                  "workflow",
+                  "workflow-automation",
+                  "workflow-engine",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1394,12 +2296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple docker sandbox image for Hermes Agent",
+                "homepage": null,
                 "id": 1186564626,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2026-08-25T12:42:12Z",
+                "open_issues": 0,
                 "owner": "xmbshwll",
                 "repo": "hermes-agent-docker",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1410,12 +2317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nix package and NixOS module for Hermes Agent by Nous Research",
+                "homepage": null,
                 "id": 1182767219,
                 "language": "Nix",
+                "license": null,
                 "last_commit": "2026-08-28T15:53:27Z",
+                "open_issues": 3,
                 "owner": "0xrsydn",
                 "repo": "nix-hermes-agent",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1426,12 +2338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Migrate from OpenClaw to Hermes Agent — complete, battle-tested migration tool",
+                "homepage": null,
                 "id": 1181469809,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T05:53:34Z",
+                "open_issues": 0,
                 "owner": "0xNyk",
                 "repo": "openclaw-to-hermes",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1442,12 +2359,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent-Grade WireGuard Relay for Proton VPN - Docker container that routes agent traffic through Proton VPN exit nodes with kill switch + SOCKS5 + prompt-injection-safe fetching",
+                "homepage": null,
                 "id": 1338237233,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T19:10:16Z",
+                "open_issues": 0,
                 "owner": "ZoniBoy00",
                 "repo": "aivpn",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "agent-skills",
+                  "ai-agent",
+                  "docker",
+                  "kill-switch",
+                  "privacy",
+                  "proton-vpn",
+                  "proxy",
+                  "self-hosted",
+                  "skill",
+                  "socks5",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1465,12 +2400,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
+                "homepage": null,
                 "id": 1271239690,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T15:00:54Z",
+                "open_issues": 23,
                 "owner": "internet-court",
                 "repo": "internet-court-skill",
-                "stars": 4969
+                "stars": 4974,
+                "topics": [
+                  "a2a",
+                  "adjudication",
+                  "agent-payments",
+                  "agent-skills",
+                  "agentic-commerce",
+                  "ai-agents",
+                  "claude-code",
+                  "claude-plugin",
+                  "claude-skill",
+                  "codex",
+                  "dispute-resolution",
+                  "erc-7710",
+                  "erc-8004",
+                  "escrow",
+                  "genlayer",
+                  "hermes-agent",
+                  "openclaw",
+                  "opencode",
+                  "web3",
+                  "x402"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1481,12 +2442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[PUBLIC] Repository for Chainlink Skills that implement https://agentskills.io/specification",
+                "homepage": null,
                 "id": 1154952967,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:53:37Z",
+                "open_issues": 9,
                 "owner": "smartcontractkit",
                 "repo": "chainlink-agent-skills",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1497,12 +2463,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AI-native ERP: accounting, inventory, sales, purchasing and more, operated in plain language. Free forever, self-hosted. GPL v3.",
+                "homepage": null,
                 "id": 1168233220,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-16T21:33:14Z",
+                "open_issues": 2,
                 "owner": "avansaber",
                 "repo": "erpclaw",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "accounting",
+                  "ai-erp",
+                  "ai-native",
+                  "erp",
+                  "gpl-3",
+                  "inventory",
+                  "open-source",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1513,12 +2493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1161330810,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-19T15:58:48Z",
+                "open_issues": 23,
                 "owner": "Merit-Systems",
                 "repo": "agentcash-skills",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1529,12 +2514,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mercury — Blockchain Cash Flow Analyzer | Hermes Agent Skill for multi-chain analysis, fraud detection, trading strategy & interactive WebGL dashboard",
+                "homepage": null,
                 "id": 1182734549,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-15T22:36:06Z",
+                "open_issues": 0,
                 "owner": "hxsteric",
                 "repo": "mercury",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1545,12 +2535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safe-by-design USDC and x402 payment plugin for Hermes Agent",
+                "homepage": null,
                 "id": 1187294870,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-20T15:43:30Z",
+                "open_issues": 1,
                 "owner": "nativ3ai",
                 "repo": "hermes-payguard",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1561,12 +2556,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A portable, secure HTTP gateway for AI agents to interact with the Monero (XMR) blockchain. Built to follow the `agentskills.io` specification.",
+                "homepage": "https://kyc.rip",
                 "id": 1167184660,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-07T14:03:10Z",
+                "open_issues": 0,
                 "owner": "KYC-rip",
                 "repo": "ripley-xmr-gateway",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "agent-skills",
+                  "gemini",
+                  "kyc-rip",
+                  "monero",
+                  "openclaw",
+                  "openclaw-skills",
+                  "privacy",
+                  "wallet",
+                  "xmr"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1577,12 +2587,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔮 Hermes Blockchain Oracle - A Solana blockchain intelligence MCP server for Hermes Agent. Query wallets, track whales, analyze tokens, explore NFTs, and monitor network health through natural language.",
+                "homepage": "https://nousresearch.com",
                 "id": 1168892361,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-17T18:41:42Z",
+                "open_issues": 0,
                 "owner": "gizdusum",
                 "repo": "hermes-blockchain-oracle",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "blockchain",
+                  "crypto",
+                  "defi",
+                  "hermes-agent",
+                  "mcp",
+                  "model-context-protocol",
+                  "nft",
+                  "nous-research",
+                  "oracle",
+                  "solana",
+                  "solana-rpc",
+                  "web3",
+                  "whale-tracking"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1593,12 +2622,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Barker MCP server + agent skills — real-time stablecoin yield index, AI yield advisor, risk signals and non-custodial execution for AI agents. x402 pay-per-call at mcp.barker.money.",
+                "homepage": "https://barker.money",
                 "id": 1201448925,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T11:46:55Z",
+                "open_issues": 0,
                 "owner": "barkermoney",
                 "repo": "barker-mcp",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-skills",
+                  "apy",
+                  "barker",
+                  "bnbchain",
+                  "claude-code",
+                  "crypto-yield",
+                  "defi",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-servers",
+                  "model-context-protocol",
+                  "stablecoin",
+                  "stablecoin-yield",
+                  "usdc",
+                  "usdt",
+                  "x402",
+                  "yield"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1609,12 +2663,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "true402 skills for Hermes Agent — pre-trade rug/honeypot safety for Base tokens over x402 (free daily checks, no API key)",
+                "homepage": null,
                 "id": 1312685828,
                 "language": null,
+                "license": "MIT-0",
                 "last_commit": "2026-08-22T15:32:03Z",
+                "open_issues": 0,
                 "owner": "true402",
                 "repo": "hermes-skills",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "base",
+                  "crypto",
+                  "hermes-agent",
+                  "hermes-skills",
+                  "honeypot",
+                  "rug-check",
+                  "token-safety",
+                  "x402"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1632,12 +2700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hermes — a multi-agent system for OpenCode AI. 17 specialized agents for research, planning, implementation, quality, and infrastructure.",
+                "homepage": null,
                 "id": 1125878323,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-12-31T14:58:10Z",
+                "open_issues": 0,
                 "owner": "1ilkhamov",
                 "repo": "opencode-hermes-multiagent",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1648,12 +2721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial multi-perspective council MCP server for hermes-agent",
+                "homepage": null,
                 "id": 1179285655,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-11T07:20:15Z",
+                "open_issues": 1,
                 "owner": "Ridwannurudeen",
                 "repo": "hermes-council",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1664,12 +2742,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA capability registry and Spark-aware routing layer for Hermes Agent and NemoClaw users",
+                "homepage": "https://github.com/Hmbown/NemoHermes",
                 "id": 1186650612,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-21T17:20:12Z",
+                "open_issues": 1,
                 "owner": "Hmbown",
                 "repo": "NemoHermes",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "ai-infrastructure",
+                  "dgx-spark",
+                  "hermes-agent",
+                  "local-ai",
+                  "multimodal",
+                  "nemoclaw",
+                  "nim",
+                  "nvidia",
+                  "sglang",
+                  "vllm"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1687,12 +2781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android device control for hermes-agent — bridge app + Python toolset",
+                "homepage": null,
                 "id": 1181826391,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T02:01:55Z",
+                "open_issues": 6,
                 "owner": "raulvidis",
                 "repo": "hermes-android",
-                "stars": 482
+                "stars": 482,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1703,12 +2802,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embodied AI companion for Minecraft — persistent memory, vision, learning, multi-agent. Built on Hermes Agent.",
+                "homepage": "https://github.com/NousResearch/hermes-agent",
                 "id": 1182163057,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-25T21:11:19Z",
+                "open_issues": 0,
                 "owner": "bigph00t",
                 "repo": "hermescraft",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "ai-agent",
+                  "autonomous-agent",
+                  "embodied-ai",
+                  "hermes",
+                  "llm",
+                  "mcp",
+                  "minecraft",
+                  "mineflayer",
+                  "nous-research",
+                  "virtual-worlds"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1719,12 +2834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bridge connecting Hermes Agent to Miniverse pixel worlds",
+                "homepage": null,
                 "id": 1180393356,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-13T11:44:21Z",
+                "open_issues": 0,
                 "owner": "teknium1",
                 "repo": "hermes-miniverse",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1735,12 +2855,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI mobile automation starter repo for AIVane. Android REPL beta, Python client, skills, examples, and protocol docs for AI agents.",
+                "homepage": null,
                 "id": 1196834600,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-16T11:13:56Z",
+                "open_issues": 0,
                 "owner": "aivanelabs",
                 "repo": "ai-rpa",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ai-agent",
+                  "ai-rpa",
+                  "android-automation",
+                  "claude-code",
+                  "codex",
+                  "mobile-automation",
+                  "openclaw",
+                  "phone-control",
+                  "rpa",
+                  "ui-automation"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1751,12 +2887,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered Mars rover simulation using Hermes Agent (Nous Research)",
+                "homepage": null,
                 "id": 1177157596,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-15T07:43:31Z",
+                "open_issues": 0,
                 "owner": "Snehal707",
                 "repo": "Hermes-mars-rover",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ai-agents",
+                  "fastapi",
+                  "gazebo",
+                  "hermes-agent",
+                  "mars-rover",
+                  "nous-research",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1767,12 +2916,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Argo — signed typed jobs from Hermes to Android. No on-device LLM.",
+                "homepage": "https://github.com/Allendior/private-agent/blob/main/skills/argo/SKILL.md",
                 "id": 1336795018,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2026-08-18T08:05:19Z",
+                "open_issues": 0,
                 "owner": "Allendior",
                 "repo": "private-agent",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "agentskills",
+                  "android",
+                  "android-automation",
+                  "flutter",
+                  "hermes",
+                  "hermes-agent",
+                  "hermes-skill",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1790,12 +2953,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+                "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
                 "id": 1166506614,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T11:12:27Z",
+                "open_issues": 48,
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 31518
+                "stars": 31529,
+                "topics": [
+                  "ai-agents",
+                  "claude-code",
+                  "cloud-security",
+                  "cybersecurity",
+                  "devsecops",
+                  "ethical-hacking",
+                  "incident-response",
+                  "infosec",
+                  "llm",
+                  "malware-analysis",
+                  "mcp",
+                  "mitre-attack",
+                  "nist-csf",
+                  "osint",
+                  "penetration-testing",
+                  "red-team",
+                  "security",
+                  "security-automation",
+                  "threat-hunting",
+                  "threat-intelligence"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1806,12 +2995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hermes Agent fork with integrated CaMeL trust boundaries",
+                "homepage": null,
                 "id": 1185742707,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-07T20:30:11Z",
+                "open_issues": 1,
                 "owner": "nativ3ai",
                 "repo": "hermes-agent-camel",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1822,12 +3016,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent skill for deepfake detection & media safety — detect AI-generated audio, images, and video with Resemble AI",
+                "homepage": "https://resemble.ai",
                 "id": 1205242089,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T15:22:58Z",
+                "open_issues": 1,
                 "owner": "resemble-ai",
                 "repo": "detect-skill",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "agent-skill",
+                  "ai-agent",
+                  "ai-safety",
+                  "audio-source-tracing",
+                  "claude-code",
+                  "clawdbot",
+                  "copilot",
+                  "cursor",
+                  "deepfake-detection",
+                  "gemini-cli",
+                  "hermes-agent",
+                  "mcp",
+                  "media-forensics",
+                  "nous-research",
+                  "openclaw",
+                  "resemble-ai",
+                  "skills-sh",
+                  "synthetic-media",
+                  "watermarking",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1838,12 +3058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "幻灭文学出版社的 Hermes Agent 技能合集。incognito-mode ：AI Agent 无痕模式，7 目录缓存沙箱、日志 RedactingFilter、向量索引哨兵、10+ 步反向审计。安装：hermes skills tap add GenmetsuWenxuePress/hermes-skills",
+                "homepage": null,
                 "id": 1312760917,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-12T13:53:33Z",
+                "open_issues": 11,
                 "owner": "GenmetsuWenxuePress",
                 "repo": "hermes-skills",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1861,12 +3086,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Hermes Agent skill pack built from fantasy spell and skill names",
+                "homepage": null,
                 "id": 1177327736,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-04-05T03:17:32Z",
+                "open_issues": 2,
                 "owner": "Hmbown",
                 "repo": "Wizards-of-the-Ghosts",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "agents",
+                  "ai-skills",
+                  "automation",
+                  "fantasy-rpg",
+                  "hermes-agent",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1877,12 +3114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A local anime server & tracker via natural language for Hermes Agent by Nous Research",
+                "homepage": null,
                 "id": 1182320060,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-15T14:29:26Z",
+                "open_issues": 0,
                 "owner": "rodmarkun",
                 "repo": "anihermes",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1893,12 +3135,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skill for The Colony (thecolony.ai) - AI agent forum & social network",
+                "homepage": "https://thecolony.ai",
                 "id": 1201895430,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-07T12:20:08Z",
+                "open_issues": 0,
                 "owner": "TheColonyAI",
                 "repo": "colony-skill",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "agent-communication",
+                  "agent-skill",
+                  "agent-social-network",
+                  "ai-agents",
+                  "colony",
+                  "openclaw",
+                  "thecolony"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -1909,12 +3164,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zillow skills for AI agents: Zestimates, comps, listings & price history for 160M+ US homes. One-command install, free tier.",
+                "homepage": "https://zillapi.com",
                 "id": 1236430521,
                 "language": "Python",
+                "license": "MIT-0",
                 "last_commit": "2026-08-23T06:01:22Z",
+                "open_issues": 0,
                 "owner": "ZeroPointRepo",
                 "repo": "zillow-skills",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "agent-skills",
+                  "claude-skills",
+                  "property-data",
+                  "real-estate-api",
+                  "zestimate",
+                  "zillow",
+                  "zillow-api",
+                  "zillow-skills"
+                ]
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             }
@@ -1936,12 +3205,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+            "homepage": "https://www.skills.sh/othmanadi/planning-with-files/planning-with-files",
             "id": 1127110039,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-22T11:09:40Z",
+            "open_issues": 11,
             "owner": "OthmanAdi",
             "repo": "planning-with-files",
-            "stars": 26407
+            "stars": 26408,
+            "topics": [
+              "agent-skills",
+              "autonomous-agents",
+              "claude",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "coding-agent",
+              "context-engineering",
+              "context-rot",
+              "cursor",
+              "github-copilot",
+              "hermes-plugin",
+              "hermes-skill",
+              "llm-agents",
+              "long-running-agents",
+              "manus",
+              "multi-agent-systems",
+              "planning",
+              "session-recovery"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -1952,12 +3247,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration",
+            "homepage": "https://a5c.ai",
             "id": 1128400700,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:00:08Z",
+            "open_issues": 330,
             "owner": "a5c-ai",
             "repo": "babysitter",
-            "stars": 1747
+            "stars": 1747,
+            "topics": [
+              "agent-orchestration",
+              "agent-skills",
+              "agentic-ai",
+              "agentic-workflow",
+              "ai-agents",
+              "ai-automation",
+              "babysitter",
+              "claude-code",
+              "claude-code-skills",
+              "claude-code-workflows",
+              "claude-skills",
+              "claude-workflows",
+              "codex-plugin",
+              "codex-skills",
+              "codex-workflow",
+              "hermes-plugin",
+              "pi-extension",
+              "trustworthy-ai",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -1968,12 +3288,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync and store memories, shared identity files (AGENTS.md, CLAUDE.md), session transcripts, institutional knowledge, and secrets between all of your favorite harnesses and models.",
+            "homepage": "https://signetai.sh",
             "id": 1155093426,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T01:55:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:39:38Z",
+            "open_issues": 21,
             "owner": "Signet-AI",
             "repo": "signetai",
-            "stars": 262
+            "stars": 262,
+            "topics": [
+              "agent-memory",
+              "ai-memory",
+              "claude-code",
+              "codex",
+              "hermes-agent",
+              "hermes-agent-plugin",
+              "hermes-plugin",
+              "oh-my-pi",
+              "openclaw",
+              "opencode",
+              "opencode-plugin",
+              "pi-coding-agent",
+              "pi-extension",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -1984,12 +3324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs into the Humalike APIs so the agent knows when to speak, how to say it, who it is, and who it's talking to.",
+            "homepage": null,
             "id": 1273565575,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T13:45:17Z",
+            "open_issues": 2,
             "owner": "Humalike",
             "repo": "hermes-humalike-plugin",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2000,12 +3345,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic Workflows for hermes",
+            "homepage": null,
             "id": 1259872947,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-31T14:46:20Z",
+            "open_issues": 1,
             "owner": "lingjiuu",
             "repo": "hermes-dynamic-workflows",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "dynamic-workflows",
+              "hermes-agent",
+              "hermes-plugin",
+              "multi-agent",
+              "nous-research",
+              "python",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2016,12 +3374,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hermes Agent plugin for cron analytics and observability. The dashboard for agentic automations in Hermes.",
+            "homepage": null,
             "id": 1236910063,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-24T17:58:27Z",
+            "open_issues": 1,
             "owner": "8bit64k",
             "repo": "cronalytics",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agent",
+              "cron",
+              "cronjob",
+              "hermes",
+              "hermes-agent",
+              "hermes-agent-cron",
+              "hermes-agent-plugin",
+              "nous-research",
+              "openai",
+              "openclaw",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2032,12 +3409,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Continuous realtime voice for Hermes Agent. Talk while Hermes runs background tasks, with local models, Gemini Live, or OpenAI Realtime.",
+            "homepage": "https://www.npmjs.com/package/hermes-live-voice",
             "id": 1277842157,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:19:21Z",
+            "open_issues": 1,
             "owner": "bielcarpi",
             "repo": "hermes-live-voice",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "ai-agents",
+              "background-tasks",
+              "browser-sdk",
+              "full-duplex",
+              "gemini-live",
+              "hermes-agent",
+              "hermes-plugin",
+              "huggingface",
+              "local-ai",
+              "local-voice",
+              "nous-research",
+              "openai-realtime",
+              "realtime-audio",
+              "realtime-voice",
+              "self-hosted",
+              "speech-to-speech",
+              "task-supervision",
+              "terminal",
+              "typescript",
+              "voice-agent"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2048,12 +3451,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidence-driven skill evolution for Hermes Agent — reports, dry-run proposals, candidate search, and guarded apply",
+            "homepage": null,
             "id": 1227831105,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T10:11:59Z",
+            "open_issues": 3,
             "owner": "pingchesu",
             "repo": "hermes-curator-evolver",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "agent-tools",
+              "agents",
+              "ai-agents",
+              "ai-governance",
+              "ai-skills",
+              "curator",
+              "dry-run-proposals",
+              "evidence-driven",
+              "guarded-apply",
+              "hermes-agent",
+              "hermes-plugin",
+              "llmops",
+              "python",
+              "read-only",
+              "semantic-search",
+              "skill-evolution",
+              "skill-governance",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2064,12 +3491,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Hermes Agent as the control plane for local coding agents like Codex, Kimi Code, Claude Code, OpenCode, and Gemini CLI.",
+            "homepage": null,
             "id": 1252551939,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-22T17:25:40Z",
+            "open_issues": 1,
             "owner": "xuyang-liu16",
             "repo": "hermes-code-bridge",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "cli-agents",
+              "codex",
+              "developer-tools",
+              "hermes-agent",
+              "hermes-plugin",
+              "kimi-code",
+              "multi-agent",
+              "opencode"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2080,12 +3523,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Budget enforcement + observability plugin for Hermes Agent. Stops runaway costs before they happen.",
+            "homepage": null,
             "id": 1254916915,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:34:17Z",
+            "open_issues": 22,
             "owner": "nujovich",
             "repo": "hermes-telemetry",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "agent-telemetry",
+              "ai-cost-tracking",
+              "budget-enforcement",
+              "hermes-agent",
+              "hermes-plugin",
+              "llm-budget",
+              "llm-observability",
+              "token-tracking"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2096,12 +3553,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome browser extension for Hermes Agent — exact sessions, user-selected tabs, and local-first browser control.",
+            "homepage": "https://corsenai.github.io/hermes-connector/",
             "id": 1307026151,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T16:57:35Z",
+            "open_issues": 2,
             "owner": "CorsenAI",
             "repo": "hermes-connector",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ai-agent",
+              "ai-browser-agent",
+              "browser-automation",
+              "browser-control",
+              "browser-extension",
+              "chrome-extension",
+              "chrome-side-panel",
+              "hermes-agent",
+              "hermes-plugin",
+              "local-first",
+              "manifest-v3",
+              "web-agent"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2112,12 +3587,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static, no-execution security checks for Hermes Agent plugins",
+            "homepage": null,
             "id": 1309564271,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-06T17:57:19Z",
+            "open_issues": 1,
             "owner": "mauricemohr88-debug",
             "repo": "hermes-plugin-guard",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "github-actions",
+              "hermes-agent",
+              "plugin-security",
+              "python",
+              "sarif",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -2134,12 +3621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated Hermes Agent profiles for specialist swarms — opinionated, Hermes-optimized, artifact-pyramid native",
+            "homepage": null,
             "id": 1260110388,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-27T03:03:56Z",
+            "open_issues": 2,
             "owner": "magnus919",
             "repo": "hermes-profiles",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2150,12 +3642,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Donna — a starter Hermes Agent profile: opinionated persona, 73 curated skills, guided first-run orientation, optional Token Router. MIT.",
+            "homepage": null,
             "id": 1324382874,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T13:38:44Z",
+            "open_issues": 1,
             "owner": "AtlasOmnia",
             "repo": "donna-starter",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "hermes-agent",
+              "profile",
+              "skills",
+              "starter-profile"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2166,12 +3668,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supervised, Hermes-native penetration testing profile with 35 routed playbooks, guarded target execution, persistent engagement state, evidence-backed findings, and release-gated reporting.",
+            "homepage": "https://hermes-agent.nousresearch.com/",
             "id": 1291466723,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T13:51:55Z",
+            "open_issues": 10,
             "owner": "Strategic-Automation",
             "repo": "violin",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "cybersecurity",
+              "hermes-agent",
+              "hermes-profile",
+              "kali-linux",
+              "llm-security",
+              "owasp",
+              "parrot-os",
+              "penetration-testing",
+              "pentest",
+              "red-team",
+              "security-automation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2182,12 +3703,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Hermes Agent profiles — persona-driven AI agent configurations for orchestration, coding, and research.",
+            "homepage": null,
             "id": 1270436690,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-13T22:43:50Z",
+            "open_issues": 0,
             "owner": "theheavenlyd3mon",
             "repo": "hermes-profiles",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "agent-orchestration",
+              "ai-agents",
+              "hermes-agent",
+              "llm",
+              "personas",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2198,12 +3731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drop-in Hermes Agent profile kit. Creates four isolated profiles (coder, assistant, research, community-bot) with separate config, memory, gateway tokens, and personas. AGENTS.md-driven, LLM-friendly.",
+            "homepage": null,
             "id": 1233663152,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T09:53:52Z",
+            "open_issues": 3,
             "owner": "NewTurn2017",
             "repo": "hermes-profile-kit",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2214,12 +3752,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated Hermes Agent profile packs",
+            "homepage": null,
             "id": 1342828468,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T07:16:39Z",
+            "open_issues": 0,
             "owner": "Dadmin88",
             "repo": "hermes-profile-packs",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agent-profiles",
+              "ai-agents",
+              "hermes-agent",
+              "multi-agent",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2230,12 +3779,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parent-operated Hermes profiles for children in WisdomForge bands 5–10, 11–14, and 15–18. Fresh profiles only. Not a kids-AI product.",
+            "homepage": "https://www.smfwisdomforge.com",
             "id": 1343021941,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T12:20:17Z",
+            "open_issues": 0,
             "owner": "smfworks",
             "repo": "wisdomforge-kids-Hermes-profiles",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai-agents",
+              "education",
+              "hermes-agent",
+              "multi-agent",
+              "parenting",
+              "soul",
+              "wisdomforge"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -2252,12 +3814,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hindsight: Agent Memory That  Learns",
+            "homepage": "https://hindsight.vectorize.io/",
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-28T21:13:06Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:29:34Z",
+            "open_issues": 139,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21608
+            "stars": 21610,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai-memory",
+              "memory"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2268,12 +3840,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+            "homepage": null,
             "id": 1255412388,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T10:40:43Z",
+            "open_issues": 8,
             "owner": "ClaudioDrews",
             "repo": "memory-os",
-            "stars": 1343
+            "stars": 1343,
+            "topics": [
+              "ai-memory",
+              "context-injection",
+              "docker",
+              "ground-truth",
+              "hermes-agent",
+              "local-first",
+              "open-source",
+              "persistent-memory",
+              "qdrant",
+              "rag",
+              "self-hosted",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2284,12 +3874,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes",
+            "homepage": null,
             "id": 1199228218,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-09T04:51:34Z",
+            "open_issues": 6,
             "owner": "elkimek",
             "repo": "honcho-self-hosted",
-            "stars": 368
+            "stars": 368,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2300,12 +3895,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+            "homepage": null,
             "id": 1239699520,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:13:49Z",
+            "open_issues": 8,
             "owner": "410979729",
             "repo": "scope-recall-hermes",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "agent",
+              "ai-agent",
+              "ai-memory",
+              "hermes",
+              "hermes-agent",
+              "hermes-plugin",
+              "hybrid-retrieval",
+              "lancedb",
+              "llm-agent",
+              "memory",
+              "memory-plugin",
+              "python",
+              "scope-isolation",
+              "scope-recall",
+              "sqlite",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2316,12 +3933,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shared memory for AI agents",
+            "homepage": "https://plur.ai",
             "id": 1186683138,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:32:53Z",
+            "open_issues": 177,
             "owner": "plur-ai",
             "repo": "plur",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "ai-memory",
+              "context-engine",
+              "llm",
+              "local-first",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2332,12 +3962,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access.",
+            "homepage": "https://remnic.ai",
             "id": 1150677698,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T23:01:10Z",
+            "open_issues": 7,
             "owner": "joshuaswarren",
             "repo": "remnic",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "ai-agent",
+              "ai-memory",
+              "claude-code",
+              "engram",
+              "hermes-plugin",
+              "knowledge-graph",
+              "llm",
+              "local-first",
+              "long-term-memory",
+              "markdown",
+              "mcp",
+              "mcp-server",
+              "memory-plugin",
+              "okf",
+              "open-knowledge-format",
+              "openai",
+              "openclaw",
+              "semantic-search",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2348,12 +4003,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The structured context layer for AI agents. Build self-learning specialised agents that are context aware.",
+            "homepage": "https://open-index.io/",
             "id": 1318866816,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T07:33:27Z",
+            "open_issues": 0,
             "owner": "DrDroidLab",
             "repo": "open-index",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "ai-infrastructure",
+              "context-engineering",
+              "context-graph",
+              "decision-engine",
+              "domain-specific-language",
+              "graph-engineering",
+              "knowledge-graph",
+              "loop-engineering",
+              "mcp-server",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2364,12 +4037,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning ranking, contradiction tracking, proactive hygiene, and explainable recall.",
+            "homepage": "https://yantrikdb.com",
             "id": 1211008223,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:07:16Z",
+            "open_issues": 1,
             "owner": "yantrikos",
             "repo": "yantrikdb-hermes-plugin",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "ai-memory",
+              "cognitive-memory",
+              "hermes-agent",
+              "hermes-agent-plugin",
+              "hermes-memory-provider",
+              "hermes-plugin",
+              "knowledge-graph",
+              "llm-agent",
+              "memory",
+              "nousresearch",
+              "persistent-memory",
+              "plugin",
+              "python",
+              "yantrikdb"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2380,12 +4075,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your Obsidian vault into a personal identity layer — any AI agent knows who you are in 30 seconds.",
+            "homepage": "https://github.com/NousResearch/hermes-agent.git",
             "id": 1215274814,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-15T15:16:16Z",
+            "open_issues": 0,
             "owner": "beiyuii",
             "repo": "personal-api-skill",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "ai-agent",
+              "hermes-agent",
+              "knowledge-management",
+              "llm-tools",
+              "markdown",
+              "obsidian",
+              "personal-api",
+              "personal-knowledge-management",
+              "productivity",
+              "second-brain"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2396,12 +4107,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-driven proactive memory CLI for AI agents — autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.",
+            "homepage": "https://janyork.github.io/llm-wiki-cli",
             "id": 1316178203,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:35:20Z",
+            "open_issues": 0,
             "owner": "JanYork",
             "repo": "llm-wiki-cli",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "agent-memory-system",
+              "agent-skills",
+              "ai-agents",
+              "ai-agents-cli",
+              "claude-code",
+              "claude-skills",
+              "codex",
+              "command-line-tool",
+              "context-engineering",
+              "cursor",
+              "gemini-cli",
+              "hermes",
+              "kiro",
+              "knowledge-bases",
+              "llm-wiki",
+              "llm-wiki-karpathy",
+              "local-first-ai",
+              "opencode",
+              "persistent-memory-tool",
+              "proactive-memory"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2412,12 +4149,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Long-term, cross-project memory for AI coding agents. Your own Obsidian vault as the source of truth. Daemonless and without opaque databases, your memory belongs to you.",
+            "homepage": "https://agentcairn.dev",
             "id": 1263220935,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:44:59Z",
+            "open_issues": 5,
             "owner": "ccf",
             "repo": "agentcairn",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "agentmemory",
+              "ai",
+              "ai-agents",
+              "claude",
+              "claude-code",
+              "codex",
+              "cursor",
+              "duckdb",
+              "harness",
+              "hermes",
+              "hermes-agent",
+              "hermes-plugin",
+              "local-first",
+              "markdown",
+              "mcp",
+              "memory",
+              "obsidian",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2428,12 +4189,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlowState QMD — Anticipatory Memory for AI Agents. Hermes 2026 Hackathon Entry.",
+            "homepage": null,
             "id": 1181811694,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-15T22:53:16Z",
+            "open_issues": 0,
             "owner": "amanning3390",
             "repo": "flowstate-qmd",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "2026",
+              "ai-agents",
+              "anticipatory-retrieval",
+              "hackathon",
+              "hermes-agent",
+              "local-ai",
+              "mcp",
+              "memory",
+              "qwen3",
+              "rag",
+              "sqlite",
+              "typescript",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2444,12 +4224,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OpenClaw (2026.4/2026.6+) and Hermes Agent plugin that turns AI conversations into a permanent Zettelkasten knowledge base — atomic notes, bi-directional links, knowledge distillation, and MCP tool exposure.",
+            "homepage": "https://github.com/cx2002302-lang/zettelkasten-second-memory/releases",
             "id": 1234839530,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T06:01:17Z",
+            "open_issues": 0,
             "owner": "cx2002302-lang",
             "repo": "zettelkasten-second-memory",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ai-agent",
+              "compatibility",
+              "hermes-agent",
+              "knowledge-graph",
+              "knowledge-management",
+              "markdown",
+              "mcp",
+              "mcp-server",
+              "note-taking",
+              "openclaw",
+              "second-memory",
+              "sqlite",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2460,12 +4259,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-token memory for LLM agents. Rust implementation of Zero-Mem (arXiv:2607.29377) with a Hermes Agent memory provider.",
+            "homepage": null,
             "id": 1324124790,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T22:24:11Z",
+            "open_issues": 0,
             "owner": "ptaranat",
             "repo": "zeromem",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "agent-memory",
+              "hermes-agent",
+              "llm-agents",
+              "retrieval",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2476,12 +4286,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hermes Agent plugin for persistent AI memory",
+            "homepage": "https://docs.membase.so/connectors/hermes",
             "id": 1215602835,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-03T03:18:04Z",
+            "open_issues": 1,
             "owner": "aristoapp",
             "repo": "hermes-membase",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "hermes",
+              "hermes-agent",
+              "hermes-plugin",
+              "mcp",
+              "membase",
+              "memory"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -2498,12 +4323,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)",
+            "homepage": "https://screenpipe.com",
             "id": 817326197,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T01:44:03Z",
+            "open_issues": 60,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21281
+            "stars": 21281,
+            "topics": [
+              "agents",
+              "agi",
+              "ai",
+              "ai-memory",
+              "audio-recording",
+              "computer-vision",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "local-ai",
+              "local-first",
+              "machine-learning",
+              "mcp",
+              "multimodal",
+              "openclaw",
+              "privacy",
+              "rewind",
+              "screen-recording",
+              "speech-to-text",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2514,12 +4365,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+            "homepage": "https://get-hermes.ai/setup",
             "id": 1196617276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T01:03:47Z",
+            "open_issues": 792,
             "owner": "nesquena",
             "repo": "hermes-webui",
-            "stars": 17846
+            "stars": 17847,
+            "topics": [
+              "agent",
+              "ai-agents",
+              "hermes",
+              "hermes-agent",
+              "nous-research"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2530,12 +4392,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+            "homepage": "https://hermes-studio.ai",
             "id": 1207639951,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T01:51:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:40:17Z",
+            "open_issues": 299,
             "owner": "EKKOLearnAI",
             "repo": "hermes-studio",
-            "stars": 10659
+            "stars": 10665,
+            "topics": [
+              "agent",
+              "ai-agent",
+              "chat-ui",
+              "dashboard",
+              "hermes",
+              "hermes-agent",
+              "hermes-web-ui",
+              "llm",
+              "multi-model",
+              "multi-platform",
+              "self-hosted",
+              "typescript",
+              "vue3",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2546,12 +4428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Always-on-top desktop sprite avatar UI shell for a local Hermes Agent gateway. PySide6, OpenAI-compatible HTTP API.",
+            "homepage": null,
             "id": 1313214764,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-30T05:30:03Z",
+            "open_issues": 0,
             "owner": "erenciracioglu-dotcom",
             "repo": "hermes-desktop-avatar",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2562,12 +4449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web dashboard for Hermes Agent gateway — full config, MCP, cron, model management without CLI",
+            "homepage": null,
             "id": 1207912397,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-30T22:11:05Z",
+            "open_issues": 0,
             "owner": "chrisryugj",
             "repo": "hermes-dashboard",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2578,12 +4470,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect a personal Zalo account to the Hermes Agent gateway via zca-js (unofficial Zalo API). Cross-platform plugin: macOS, Linux, Windows.",
+            "homepage": "https://www.npmjs.com/package/hermes-zalo-plugin",
             "id": 1259280063,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T09:43:15Z",
+            "open_issues": 0,
             "owner": "cuongdev",
             "repo": "hermes-zalo-plugin",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "bridge",
+              "chatbot",
+              "hermes-agent",
+              "messaging",
+              "nodejs",
+              "vietnam",
+              "zalo",
+              "zca-js"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2594,12 +4500,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native Android client for the Hermes agent gateway — chat plus full management (sessions, models, cron, usage, messaging) over Tailscale, VPN, or LAN.",
+            "homepage": null,
             "id": 1273721854,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-22T16:54:04Z",
+            "open_issues": 2,
             "owner": "adebnar",
             "repo": "hermes-android",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "ai-agent",
+              "ai-agents",
+              "android",
+              "hermes",
+              "hermes-agent",
+              "jetpack-compose",
+              "kotlin",
+              "llm",
+              "material3",
+              "mcp",
+              "mobile-client"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2610,12 +4533,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hermes Live Discord Agent Plugin — full-duplex Discord voice ↔ Google Gemini Multimodal Live API, with function calling, idle hangup, transcripts, and a 3-min oneshot installer.",
+            "homepage": "https://capslockb.github.io/hermes-live-discord-agent-plugin/",
             "id": 1259721870,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-15T16:41:19Z",
+            "open_issues": 17,
             "owner": "Capslockb",
             "repo": "hermes-live-discord-agent-plugin",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "discord-bot",
+              "gemini-live",
+              "hermes-agent",
+              "hermes-plugin",
+              "multimodal-ai",
+              "plugin",
+              "realtime-voice",
+              "voice-agent",
+              "voice-bridge"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2626,12 +4564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One Feishu bot, N users, N profiles. A hermes-agent plugin for multi-tenant routing.",
+            "homepage": null,
             "id": 1221358460,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T05:33:41Z",
+            "open_issues": 0,
             "owner": "eggyrooch-blip",
             "repo": "hermes-multitenancy",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2642,12 +4585,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hermes Notebook: handwriting-first Kindle Scribe, BOOX, and Android stylus clients for the Hermes agent gateway, with Live Pages, offline ink, OCR, sessions, and tools.",
+            "homepage": null,
             "id": 1295512859,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T20:01:33Z",
+            "open_issues": 6,
             "owner": "lEWFkRAD",
             "repo": "hermes-agents-guide-to-the-galaxy",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "android",
+              "boox",
+              "e-ink",
+              "handwriting",
+              "hermes-agent",
+              "kindle-scribe",
+              "notebook",
+              "ocr",
+              "stylus"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2658,12 +4616,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hermes Agent gateway plugin: Meshtastic LoRa radio as a first-class messaging platform.",
+            "homepage": null,
             "id": 1244715090,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-20T14:30:56Z",
+            "open_issues": 0,
             "owner": "merchantmy",
             "repo": "meshtastic-plugin",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "hermes",
+              "hermes-agent",
+              "hermes-plugin",
+              "meshtastic",
+              "meshtastic-python"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -2680,12 +4649,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.",
+            "homepage": "https://hermes-workspace.com",
             "id": 1182887460,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T05:24:08Z",
+            "open_issues": 144,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6529
+            "stars": 6530,
+            "topics": [
+              "agent-ui",
+              "ai-workspace",
+              "hackathon",
+              "hermes-agent",
+              "nous-research",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2696,12 +4678,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.",
+            "homepage": "https://mc.builderz.dev",
             "id": 1156797572,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T06:00:07Z",
+            "open_issues": 18,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6126
+            "stars": 6127,
+            "topics": [
+              "agent-observability",
+              "agent-operations",
+              "agent-orchestration",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "developer-tools",
+              "mcp",
+              "nextjs",
+              "open-source",
+              "openclaw",
+              "self-hosted",
+              "sqlite",
+              "task-management",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2712,12 +4715,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.",
+            "homepage": "https://dodo-reach.github.io/hermes-desktop/",
             "id": 1205375924,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-19T10:52:35Z",
+            "open_issues": 18,
             "owner": "dodo-reach",
             "repo": "hermes-desktop",
-            "stars": 2005
+            "stars": 2005,
+            "topics": [
+              "agent-tools",
+              "apple-silicon",
+              "developer-tools",
+              "hermes",
+              "hermes-agent",
+              "macos",
+              "remote-development",
+              "ssh",
+              "swift",
+              "swiftui",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2728,12 +4748,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.",
+            "homepage": null,
             "id": 1182759510,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T02:55:31Z",
+            "open_issues": 1,
             "owner": "aivrar",
             "repo": "portable-hermes-agent",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "desktop-app",
+              "hermes",
+              "hermes-agent",
+              "lm-studio",
+              "local-ai",
+              "music-generation",
+              "no-docker",
+              "no-install",
+              "portable",
+              "tool-making",
+              "windows",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2744,12 +4784,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The command center for Hermes Agent — chat, steer, browse files, manage skills, and monitor everything from a single glassmorphic HTML app.",
+            "homepage": null,
             "id": 1200209823,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-30T09:54:59Z",
+            "open_issues": 1,
             "owner": "pyrate-llama",
             "repo": "hermes-ui",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "ai",
+              "ai-assistant",
+              "chat-interface",
+              "dashboard",
+              "glassmorphism",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "mcp",
+              "python",
+              "react",
+              "self-hosted",
+              "single-file",
+              "tailscale",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2760,12 +4821,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process monitoring and configuration dashboard for Hermes Agent",
+            "homepage": "https://github.com/NousResearch/hermes-agent",
             "id": 1188925395,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-24T21:52:07Z",
+            "open_issues": 0,
             "owner": "sanchomuzax",
             "repo": "hermes-webui",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "ai-agent",
+              "dashboard",
+              "fastapi",
+              "hermes-agent",
+              "monitoring",
+              "react",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2776,12 +4850,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oracle AI Agent Harness — fork of NousResearch/hermes-agent powered by OCI GenAI and Oracle 26ai Free",
+            "homepage": null,
             "id": 1168909534,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T00:57:37Z",
+            "open_issues": 5,
             "owner": "jasperan",
             "repo": "orahermes-agent",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ai-agent",
+              "autonomous-agent",
+              "genai",
+              "grok",
+              "hermes-agent",
+              "oci",
+              "openai-compatible",
+              "oracle",
+              "oracle-26ai",
+              "oracle-cloud",
+              "oracle-database",
+              "oracle-text",
+              "python",
+              "tool-calling",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -2798,12 +4893,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins",
+            "homepage": "https://agent-plugins.org",
             "id": 1200071160,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T16:34:23Z",
+            "open_issues": 13,
             "owner": "agentplugins",
             "repo": "agent-plugins-spec",
-            "stars": 1182
+            "stars": 1182,
+            "topics": [
+              "agent-plugins",
+              "agent-skills",
+              "ai-agents",
+              "mcp",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2814,12 +4920,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.",
+            "homepage": "https://hermes-agent.nousresearch.com",
             "id": 1293924437,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:30:55Z",
+            "open_issues": 0,
             "owner": "moonlight-lupin",
             "repo": "agent-skills",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "agent-ops",
+              "agent-skills",
+              "ai-agent",
+              "ai-agent-skills",
+              "automation",
+              "claude-code",
+              "hermes",
+              "llm",
+              "research"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2830,12 +4951,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Plugins directory: 40+ verified plugins for the open, vendor-neutral standard.",
+            "homepage": "https://agentplugins.codes/",
             "id": 1332056401,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:53:24Z",
+            "open_issues": 1,
             "owner": "ZeroPointRepo",
             "repo": "awesome-agent-plugins",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-plugin",
+              "agent-plugins",
+              "agent-skills",
+              "agentic-ai",
+              "ai-agents",
+              "awesome",
+              "awesome-list",
+              "claude",
+              "cursor",
+              "developer-tools",
+              "github-copilot",
+              "llm-tools",
+              "mcp",
+              "model-context-protocol",
+              "openai",
+              "plugins",
+              "skills",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -2852,12 +4997,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SkillDock.io is a registry of reusable AI Skills based on the AgentSkills specification. Discover, install, and publish versioned Skills that work across OpenClaw, Claude, and any Skills-compatible agent.",
+            "homepage": "https://skilldock.io/",
             "id": 1154390625,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-05T17:12:47Z",
+            "open_issues": 1,
             "owner": "chigwell",
             "repo": "skilldock.io",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "llm",
+              "skill",
+              "skilldock",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2868,12 +5023,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HermesHub - The Skills Hub for Hermes Agent by Nous Research. Browse, share, and install community skills.",
+            "homepage": "https://hermeshub.vercel.app",
             "id": 1184470228,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T18:24:52Z",
+            "open_issues": 77,
             "owner": "amanning3390",
             "repo": "hermeshub",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -2890,12 +5050,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent that grows with you",
+            "homepage": "https://hermes-agent.nousresearch.com",
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-29T01:12:03Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:39:01Z",
+            "open_issues": 37196,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 237769
+            "stars": 237805,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "codex",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "nous-research",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2906,12 +5085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive documentation for Hermes Agent by NousResearch — the self-improving AI agent (v0.2.0)",
+            "homepage": null,
             "id": 1183207023,
             "language": "MDX",
+            "license": null,
             "last_commit": "2026-05-18T09:37:47Z",
+            "open_issues": 2,
             "owner": "mudrii",
             "repo": "hermes-agent-docs",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2922,12 +5106,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build an AI team of Hermes agents: SOUL, memory, vault, skills, nightly research, kanban, chief of staff, rituals, and Desktop Bots group chats. Agent-consumable, phase-by-phase guide by Aiona Edge.",
+            "homepage": "https://www.smfclearinghouse.com/blog/building-an-ai-team-from-installation-to-colleagues",
             "id": 1340589130,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T12:58:06Z",
+            "open_issues": 0,
             "owner": "smfworks",
             "repo": "hermes-ai-team",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "agent-identity",
+              "ai-agents",
+              "ai-team",
+              "hermes",
+              "hermes-agent",
+              "multi-agent",
+              "nous-research",
+              "orchestration",
+              "soul"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2938,12 +5137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instructions to use Hermes AI agents on WSL2 - Ubuntu",
+            "homepage": null,
             "id": 1185490403,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-05-22T19:09:33Z",
+            "open_issues": 0,
             "owner": "metantonio",
             "repo": "hermes-wsl-ubuntu",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -2960,12 +5164,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grok Bot skills, plugins, and MCP servers.",
+            "homepage": "https://docs.x.ai/grok-bot/overview",
             "id": 1332067090,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:53:28Z",
+            "open_issues": 0,
             "owner": "ZeroPointRepo",
             "repo": "awesome-grok-bot",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "ai-agents",
+              "ai-tools",
+              "awesome",
+              "awesome-list",
+              "cursor",
+              "developer-tools",
+              "grok",
+              "grok-bot",
+              "grokbot",
+              "mcp",
+              "model-context-protocol",
+              "personal-assistant",
+              "plugins",
+              "skills",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2976,12 +5203,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Plugins directory: 40+ verified plugins for the open, vendor-neutral standard.",
+            "homepage": "https://agentplugins.codes/",
             "id": 1332056401,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:53:24Z",
+            "open_issues": 1,
             "owner": "ZeroPointRepo",
             "repo": "awesome-agent-plugins",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-plugin",
+              "agent-plugins",
+              "agent-skills",
+              "agentic-ai",
+              "ai-agents",
+              "awesome",
+              "awesome-list",
+              "claude",
+              "cursor",
+              "developer-tools",
+              "github-copilot",
+              "llm-tools",
+              "mcp",
+              "model-context-protocol",
+              "openai",
+              "plugins",
+              "skills",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -2992,12 +5243,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DSH plugins directory: 70+ verified DeepSeek Harness plugins, organized by what they do.",
+            "homepage": null,
             "id": 1341546900,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T07:55:58Z",
+            "open_issues": 3,
             "owner": "ZeroPointRepo",
             "repo": "awesome-dsh-plugins",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai-agents",
+              "awesome",
+              "awesome-list",
+              "deepseek-harness",
+              "dsh",
+              "dsh-plugins",
+              "plugins"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -3008,12 +5272,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cursor plugins: 240+ from the marketplace, with the other agents each one runs in.",
+            "homepage": null,
             "id": 1345761300,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T07:56:02Z",
+            "open_issues": 0,
             "owner": "ZeroPointRepo",
             "repo": "awesome-cursor-plugins",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agent-plugins",
+              "agent-skills",
+              "ai-agents",
+              "awesome",
+              "awesome-list",
+              "cursor",
+              "cursor-ide",
+              "cursor-marketplace",
+              "cursor-plugin",
+              "cursor-plugins",
+              "developer-tools",
+              "mcp",
+              "model-context-protocol",
+              "plugins",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -3024,12 +5309,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fx skills: SKILL.md skills, MCP servers and subagents for Vercel's fx coding agent.",
+            "homepage": "https://fx.sh",
             "id": 1343444151,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T07:56:00Z",
+            "open_issues": 0,
             "owner": "ZeroPointRepo",
             "repo": "awesome-fx-skills",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agent-skills",
+              "awesome",
+              "awesome-list",
+              "coding-agent",
+              "fx",
+              "mcp",
+              "skill-md",
+              "vercel",
+              "zig"
+            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         }
@@ -3038,15 +5338,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:55:44.604Z",
+    "last_updated": "2026-08-29T04:43:48.116Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.",
+      "homepage": "https://transcriptapi.com",
       "id": 1223597497,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-27T07:55:50Z",
+      "open_issues": 4,
       "owner": "ZeroPointRepo",
       "repo": "awesome-hermes-skills",
-      "stars": 477
+      "stars": 479,
+      "topics": [
+        "agent-plugins",
+        "agent-skills",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "hermes",
+        "hermes-agent",
+        "mcp",
+        "nous-research"
+      ]
     },
     "original_repository_sha": "6553b60990305b10712fc16605def54a0603296f",
     "enhanced_repository": "enhansome/enhansome-hermes-skills",

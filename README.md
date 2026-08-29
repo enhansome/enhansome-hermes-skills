@@ -6,11 +6,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills Count](https://img.shields.io/badge/skills-364-blue?style=flat-square)](#-table-of-contents)
-[![Last Update](https://img.shields.io/github/last-commit/ZeroPointRepo/awesome-hermes-skills?label=Last%20update\&style=flat-square)](https://github.com/ZeroPointRepo/awesome-hermes-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc) ⭐ 477 | 🐛 4 | 📅 2026-08-27
-[![Hermes](https://img.shields.io/badge/Hermes-v0.20.5-purple?style=flat-square)](https://github.com/NousResearch/hermes-agent/releases) ⭐ 237,769 | 🐛 37,138 | 🌐 Python | 📅 2026-08-29
+[![Last Update](https://img.shields.io/github/last-commit/ZeroPointRepo/awesome-hermes-skills?label=Last%20update\&style=flat-square)](https://github.com/ZeroPointRepo/awesome-hermes-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc) ⭐ 479 | 🐛 4 | 📅 2026-08-27
+[![Hermes](https://img.shields.io/badge/Hermes-v0.20.5-purple?style=flat-square)](https://github.com/NousResearch/hermes-agent/releases) ⭐ 237,805 | 🐛 37,196 | 🌐 Python | 📅 2026-08-29
 [![Agent Plugins](https://img.shields.io/badge/Agent%20Plugins-v1.0.0-teal?style=flat-square)](https://agent-plugins.org)
 
-> A curated, install-ready directory for the [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 237,769 | 🐛 37,138 | 🌐 Python | 📅 2026-08-29 ecosystem — the self-improving AI agent from [Nous Research](https://nousresearch.com). Covers the **82 built-in skills** and **117-skill optional catalog** that ship with Hermes v0.20.5, plus **165 community skills, plugins, agent profiles, memory providers, surfaces, and tools** vetted for quality.
+> A curated, install-ready directory for the [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 237,805 | 🐛 37,196 | 🌐 Python | 📅 2026-08-29 ecosystem — the self-improving AI agent from [Nous Research](https://nousresearch.com). Covers the **82 built-in skills** and **117-skill optional catalog** that ship with Hermes v0.20.5, plus **165 community skills, plugins, agent profiles, memory providers, surfaces, and tools** vetted for quality.
 
 Hermes is the only agent with a real learning loop. It writes its own skills from your workflows, searches its own past conversations, and runs anywhere — a $5 VPS, a GPU cluster, serverless, or your laptop. But the agent is only as powerful as the skills you give it. **This list is the shortcut.** Pick three, install in a minute, and your agent is twice as useful by tonight.
 
@@ -42,7 +42,7 @@ New to Hermes? Don't try to install everything at once. Here's the three-step pa
    ```
    Then ask: *"Get the transcript for this video and summarize it: \[paste any YouTube URL]"*. The "I get it" moment lands in 30 seconds. From there try: *"Find the top 5 videos about quantum computing and tell me what they agree on."*
 
-3. **Pick a workflow upgrade** — Add [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,529 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 for a full GUI, or [SkillClaw](https://github.com/AMAP-ML/SkillClaw) ⭐ 2,528 | 🐛 34 | 🌐 Python | 📅 2026-08-17 so your skill library auto-evolves while you work.
+3. **Pick a workflow upgrade** — Add [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,530 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 for a full GUI, or [SkillClaw](https://github.com/AMAP-ML/SkillClaw) ⭐ 2,529 | 🐛 34 | 🌐 Python | 📅 2026-08-17 so your skill library auto-evolves while you work.
 
 Browse the categories below. Every entry is tagged so you know what you're getting:
 
@@ -101,7 +101,7 @@ A short hand-picked list to get you started. If you install nothing else from th
 
 ### 🛠️ mattpocock/skills — Skills For Real Engineers
 
-**production** · [Matt Pocock](https://github.com/mattpocock) · [Repo](https://github.com/mattpocock/skills) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 · 235k★
+**production** · [Matt Pocock](https://github.com/mattpocock) · [Repo](https://github.com/mattpocock/skills) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 · 235k★
 
 ```bash
 npx skills@latest add mattpocock/skills
@@ -111,13 +111,13 @@ Twenty-three battle-tested skills from the Total TypeScript creator. The `grill-
 
 ### 🖥️ hermes-workspace
 
-**production** · [outsourc-e](https://github.com/outsourc-e) · [Repo](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,529 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 · 6.5k★
+**production** · [outsourc-e](https://github.com/outsourc-e) · [Repo](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,530 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 · 6.5k★
 
 Web-based workspace with chat, terminal, memory browser, skills manager, and inspector. The most complete GUI for Hermes. Built during Nous Hackathon 2026. Pairs well with everything else on this list.
 
 ### 🔬 SkillClaw
 
-**production** · [AMAP-ML](https://github.com/AMAP-ML) · [Repo](https://github.com/AMAP-ML/SkillClaw) ⭐ 2,528 | 🐛 34 | 🌐 Python | 📅 2026-08-17 · 2.5k★
+**production** · [AMAP-ML](https://github.com/AMAP-ML) · [Repo](https://github.com/AMAP-ML/SkillClaw) ⭐ 2,529 | 🐛 34 | 🌐 Python | 📅 2026-08-17 · 2.5k★
 
 Open-source companion that auto-evolves, deduplicates, and improves your skill library from real session data. Sits on top of Hermes's built-in skill creation and adds a post-task evolution loop. Native Hermes integration via `~/.hermes/skills`, with safety flows (`skillclaw doctor hermes` / `skillclaw restore hermes`).
 
@@ -315,7 +315,7 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 ## 🧩 Optional Skills (Bundled with Hermes)
 
-> Beyond the always-on built-ins, Hermes bundles a **117-skill optional catalog** — shipped in the repo but off by default, so your context stays lean until you need them. Browse [`optional-skills/`](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills) ⭐ 237,769 | 🐛 37,138 | 🌐 Python | 📅 2026-08-29 and enable the ones your workflow calls for.
+> Beyond the always-on built-ins, Hermes bundles a **117-skill optional catalog** — shipped in the repo but off by default, so your context stays lean until you need them. Browse [`optional-skills/`](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills) ⭐ 237,805 | 🐛 37,196 | 🌐 Python | 📅 2026-08-29 and enable the ones your workflow calls for.
 >
 > This is where the deep, domain-specific power lives: **31 MLOps skills** (training, serving, vector DBs, interpretability), a full **finance-modeling suite** (DCF, LBO, merger, 3-statement), plus OSINT, blockchain, payments, and more.
 
@@ -592,37 +592,37 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 > Install all at once: `npx skills@latest add mattpocock/skills` — pick which skills you want at install time.
 
-* [ask-matt](https://github.com/mattpocock/skills/blob/main/skills/engineering/ask-matt/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Router over the rest of the pack: describe your situation, get told which skill or flow fits. **\[production]**
-* [code-review](https://github.com/mattpocock/skills/blob/main/skills/engineering/code-review/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Reviews changes since a fixed point along two axes at once — does it follow the repo's standards, and does it match what the spec asked for. **\[production]**
-* [codebase-design](https://github.com/mattpocock/skills/blob/main/skills/engineering/codebase-design/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Shared vocabulary for designing deep modules: where a seam goes, what makes code testable and AI-navigable. **\[production]**
-* [diagnosing-bugs](https://github.com/mattpocock/skills/blob/main/skills/engineering/diagnosing-bugs/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Disciplined diagnosis loop for hard bugs and performance regressions: reproduce, minimise, hypothesise, instrument, fix. **\[production]**
-* [domain-modeling](https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Pins down a project's ubiquitous language and records architectural decisions as you go. **\[production]**
-* [git-guardrails-claude-code](https://github.com/mattpocock/skills/blob/main/skills/misc/git-guardrails-claude-code/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Blocks dangerous git commands — push, `reset --hard`, `clean`, `branch -D` — before they execute. Hooks-based. **\[production]**
-* [grill-with-docs](https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Relentless interview that sharpens a plan and writes the ADRs and glossary entries as it goes. The most popular skill in the pack. **\[production]**
-* [implement](https://github.com/mattpocock/skills/blob/main/skills/engineering/implement/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Builds a piece of work from an existing spec or set of tickets, rather than from a conversation. **\[production]**
-* [improve-codebase-architecture](https://github.com/mattpocock/skills/blob/main/skills/engineering/improve-codebase-architecture/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Scans for deepening opportunities, presents them as a visual HTML report, then grills through whichever you pick. **\[production]**
-* [migrate-to-shoehorn](https://github.com/mattpocock/skills/blob/main/skills/misc/migrate-to-shoehorn/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Migrates test files from `as` type assertions to @total-typescript/shoehorn. **\[production]**
-* [prototype](https://github.com/mattpocock/skills/blob/main/skills/engineering/prototype/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Builds a throwaway prototype to answer one design question, then throws it away. **\[production]**
-* [research](https://github.com/mattpocock/skills/blob/main/skills/engineering/research/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Investigates a question against primary sources and commits the findings as Markdown in the repo. **\[production]**
-* [resolving-merge-conflicts](https://github.com/mattpocock/skills/blob/main/skills/engineering/resolving-merge-conflicts/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Works through an in-progress merge or rebase conflict rather than guessing at it. **\[production]**
-* [scaffold-exercises](https://github.com/mattpocock/skills/blob/main/skills/misc/scaffold-exercises/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Creates exercise directory structures with sections, problems, solutions and explainers. **\[production]**
-* [setup-matt-pocock-skills](https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Run once first: configures the repo's issue tracker, triage labels and domain doc layout for the rest of the pack. **\[production]**
-* [setup-pre-commit](https://github.com/mattpocock/skills/blob/main/skills/misc/setup-pre-commit/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Sets up Husky pre-commit hooks with lint-staged, Prettier, type checking and tests. **\[production]**
-* [tdd](https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Test-driven development with a red-green-refactor loop, one vertical slice at a time. **\[production]**
-* [to-spec](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Turns the current conversation into a spec and publishes it to your issue tracker. No interview, just synthesis. **\[production]**
-* [to-tickets](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-tickets/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Breaks a plan or spec into tracer-bullet tickets, each declaring its blocking edges. **\[production]**
-* [triage](https://github.com/mattpocock/skills/blob/main/skills/engineering/triage/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Moves issues and external PRs through a state machine of triage roles and writes agent-ready briefs. **\[production]**
-* [wayfinder](https://github.com/mattpocock/skills/blob/main/skills/engineering/wayfinder/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Plans work too large for one agent session as a map of decision tickets, resolved one at a time. **\[production]**
-* [wizard](https://github.com/mattpocock/skills/blob/main/skills/engineering/wizard/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Generates an interactive bash wizard for the steps only a human can do — dashboards, credentials, cutovers. **\[production]**
-* [writing-for-agents](https://github.com/mattpocock/skills/blob/main/skills/productivity/writing-for-agents/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — How to write documents agents actually follow. Use it when authoring a skill or editing `AGENTS.md`. **\[production]**
+* [ask-matt](https://github.com/mattpocock/skills/blob/main/skills/engineering/ask-matt/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Router over the rest of the pack: describe your situation, get told which skill or flow fits. **\[production]**
+* [code-review](https://github.com/mattpocock/skills/blob/main/skills/engineering/code-review/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Reviews changes since a fixed point along two axes at once — does it follow the repo's standards, and does it match what the spec asked for. **\[production]**
+* [codebase-design](https://github.com/mattpocock/skills/blob/main/skills/engineering/codebase-design/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Shared vocabulary for designing deep modules: where a seam goes, what makes code testable and AI-navigable. **\[production]**
+* [diagnosing-bugs](https://github.com/mattpocock/skills/blob/main/skills/engineering/diagnosing-bugs/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Disciplined diagnosis loop for hard bugs and performance regressions: reproduce, minimise, hypothesise, instrument, fix. **\[production]**
+* [domain-modeling](https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Pins down a project's ubiquitous language and records architectural decisions as you go. **\[production]**
+* [git-guardrails-claude-code](https://github.com/mattpocock/skills/blob/main/skills/misc/git-guardrails-claude-code/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Blocks dangerous git commands — push, `reset --hard`, `clean`, `branch -D` — before they execute. Hooks-based. **\[production]**
+* [grill-with-docs](https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Relentless interview that sharpens a plan and writes the ADRs and glossary entries as it goes. The most popular skill in the pack. **\[production]**
+* [implement](https://github.com/mattpocock/skills/blob/main/skills/engineering/implement/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Builds a piece of work from an existing spec or set of tickets, rather than from a conversation. **\[production]**
+* [improve-codebase-architecture](https://github.com/mattpocock/skills/blob/main/skills/engineering/improve-codebase-architecture/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Scans for deepening opportunities, presents them as a visual HTML report, then grills through whichever you pick. **\[production]**
+* [migrate-to-shoehorn](https://github.com/mattpocock/skills/blob/main/skills/misc/migrate-to-shoehorn/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Migrates test files from `as` type assertions to @total-typescript/shoehorn. **\[production]**
+* [prototype](https://github.com/mattpocock/skills/blob/main/skills/engineering/prototype/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Builds a throwaway prototype to answer one design question, then throws it away. **\[production]**
+* [research](https://github.com/mattpocock/skills/blob/main/skills/engineering/research/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Investigates a question against primary sources and commits the findings as Markdown in the repo. **\[production]**
+* [resolving-merge-conflicts](https://github.com/mattpocock/skills/blob/main/skills/engineering/resolving-merge-conflicts/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Works through an in-progress merge or rebase conflict rather than guessing at it. **\[production]**
+* [scaffold-exercises](https://github.com/mattpocock/skills/blob/main/skills/misc/scaffold-exercises/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Creates exercise directory structures with sections, problems, solutions and explainers. **\[production]**
+* [setup-matt-pocock-skills](https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Run once first: configures the repo's issue tracker, triage labels and domain doc layout for the rest of the pack. **\[production]**
+* [setup-pre-commit](https://github.com/mattpocock/skills/blob/main/skills/misc/setup-pre-commit/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Sets up Husky pre-commit hooks with lint-staged, Prettier, type checking and tests. **\[production]**
+* [tdd](https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Test-driven development with a red-green-refactor loop, one vertical slice at a time. **\[production]**
+* [to-spec](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Turns the current conversation into a spec and publishes it to your issue tracker. No interview, just synthesis. **\[production]**
+* [to-tickets](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-tickets/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Breaks a plan or spec into tracer-bullet tickets, each declaring its blocking edges. **\[production]**
+* [triage](https://github.com/mattpocock/skills/blob/main/skills/engineering/triage/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Moves issues and external PRs through a state machine of triage roles and writes agent-ready briefs. **\[production]**
+* [wayfinder](https://github.com/mattpocock/skills/blob/main/skills/engineering/wayfinder/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Plans work too large for one agent session as a map of decision tickets, resolved one at a time. **\[production]**
+* [wizard](https://github.com/mattpocock/skills/blob/main/skills/engineering/wizard/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Generates an interactive bash wizard for the steps only a human can do — dashboards, credentials, cutovers. **\[production]**
+* [writing-for-agents](https://github.com/mattpocock/skills/blob/main/skills/productivity/writing-for-agents/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — How to write documents agents actually follow. Use it when authoring a skill or editing `AGENTS.md`. **\[production]**
 
 #### Hermes-native skill builders
 
-* [SkillClaw](https://github.com/AMAP-ML/SkillClaw) ⭐ 2,528 | 🐛 34 | 🌐 Python | 📅 2026-08-17 by [AMAP-ML](https://github.com/AMAP-ML) — Auto-evolves and dedupes your skill library from session data. Native Hermes integration. 2.5k★. **\[production]**
+* [SkillClaw](https://github.com/AMAP-ML/SkillClaw) ⭐ 2,529 | 🐛 34 | 🌐 Python | 📅 2026-08-17 by [AMAP-ML](https://github.com/AMAP-ML) — Auto-evolves and dedupes your skill library from session data. Native Hermes integration. 2.5k★. **\[production]**
 * [wondelai/skills](https://github.com/wondelai/skills) ⭐ 2,047 | 🐛 8 | 🌐 Shell | 📅 2026-08-28 by [wondelai](https://github.com/wondelai) — Cross-platform agent skills for Claude Code and agentskills.io platforms. 2k★. **\[production]**
-* [Agent QA skills](https://github.com/vostride/agent-qa/tree/main/skills) ⭐ 904 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 by [Vostride](https://github.com/vostride) — Three portable skills for authoring Agent QA tests, triaging failed runs from evidence, and applying scoped fixes through MCP or CLI. **\[beta]**
+* [Agent QA skills](https://github.com/vostride/agent-qa/tree/main/skills) ⭐ 913 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 by [Vostride](https://github.com/vostride) — Three portable skills for authoring Agent QA tests, triaging failed runs from evidence, and applying scoped fixes through MCP or CLI. **\[beta]**
 * [hermes-skill-factory](https://github.com/Romanescu11/hermes-skill-factory) ⭐ 542 | 🐛 5 | 🌐 Python | 📅 2026-03-18 by [Romanescu11](https://github.com/Romanescu11) — Meta-skill that auto-generates reusable skills from your workflows. Point it at a repeated task and it creates a skill for it. **\[beta]**
-* [super-hermes](https://github.com/Cranot/super-hermes) ⭐ 413 | 🐛 0 | 🌐 PowerShell | 📅 2026-07-27 by [Cranot](https://github.com/Cranot) — Teaches Hermes to write its own analytical prompts. Meta-reasoning before execution. **\[experimental]**
+* [super-hermes](https://github.com/Cranot/super-hermes) ⭐ 414 | 🐛 0 | 🌐 PowerShell | 📅 2026-07-27 by [Cranot](https://github.com/Cranot) — Teaches Hermes to write its own analytical prompts. Meta-reasoning before execution. **\[experimental]**
 * [pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) ⭐ 363 | 🐛 1 | 🌐 Python | 📅 2026-08-28 by [DougTrajano](https://github.com/DougTrajano) — Pydantic AI with agentskills.io. Type-safe schema validation for skill inputs/outputs. **\[production]**
 * [rtk-hermes](https://github.com/ogallotti/rtk-hermes) ⭐ 268 | 🐛 4 | 🌐 Python | 📅 2026-05-04 by [ogallotti](https://github.com/ogallotti) — Compresses terminal output via RTK before it reaches LLM context. 60-90% token reduction. Zero config. **\[beta]**
 * [litprog-skill](https://github.com/tlehman/litprog-skill) ⭐ 254 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-10 by [tlehman](https://github.com/tlehman) — Literate programming skill across Claude Code, OpenCode, Hermes. Weaves code and prose into documented, executable notebooks. **\[beta]**
@@ -660,8 +660,8 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 ### 📊 Productivity & Tasks
 
-* [grill-me](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Get relentlessly interviewed by your agent until every branch of the decision tree is resolved. Use *every* time before making a change. Most popular skill in the pack. **\[production]**
-* [handoff](https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md) ⭐ 240,258 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Compacts the current conversation into a handoff document another agent can pick up cold. **\[production]**
+* [grill-me](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Get relentlessly interviewed by your agent until every branch of the decision tree is resolved. Use *every* time before making a change. Most popular skill in the pack. **\[production]**
+* [handoff](https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md) ⭐ 240,338 | 🐛 437 | 🌐 Shell | 📅 2026-08-24 by [mattpocock](https://github.com/mattpocock) — Compacts the current conversation into a handoff document another agent can pick up cold. **\[production]**
 * [hermes-plugins](https://github.com/42-evey/hermes-plugins) ⭐ 441 | 🐛 0 | 🌐 Python | 📅 2026-07-18 by [42-evey](https://github.com/42-evey) — Goal management, inter-agent bridge, model selection, cost control. Four plugins covering common operational needs. **\[beta]**
 * [agent-analytics-hermes-plugin](https://github.com/Agent-Analytics/agent-analytics-hermes-plugin) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-23 by [Agent-Analytics](https://github.com/Agent-Analytics) — Native Signals dashboard tab for Hermes. Read-only multi-project analytics. **\[beta]**
 * [before-you-build](https://github.com/bin1874/before-you-build-skill) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-01 by [bin1874](https://github.com/bin1874) — Product-risk review before implementation. Challenges demand, positioning, monetization, retention, trust, distribution, and feature-adoption risk before an agent starts building. Works with Hermes, OpenClaw, Claude Code, Codex, and other `SKILL.md`-compatible agents. **\[production]**
@@ -669,7 +669,7 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 ### 🎨 Creative & Media Generation
 
-* [typeui-hermes](https://github.com/bergside/typeui) ⭐ 1,839 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-04 by [Bergside](https://github.com/bergside) — Design skills that give Hermes a consistent component vocabulary when generating UI; setup in the [Hermes guide](https://www.typeui.sh/docs/guides/hermes). **\[production]**
+* [typeui-hermes](https://github.com/bergside/typeui) ⭐ 1,840 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-04 by [Bergside](https://github.com/bergside) — Design skills that give Hermes a consistent component vocabulary when generating UI; setup in the [Hermes guide](https://www.typeui.sh/docs/guides/hermes). **\[production]**
 * [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) ⭐ 524 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-28 by [Orkas-AI](https://github.com/Orkas-AI) — Local-first TypeScript CLI and MCP toolkit with 14 skills for agent-authored video composition, editing, generation, and plan-based assembly. **\[beta]**
 * [black-forest-labs/skills](https://github.com/black-forest-labs/skills) ⭐ 107 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-26 by [Black Forest Labs](https://github.com/black-forest-labs) — Official FLUX model skills for image generation. First-party skills from the FLUX creators. **\[production]**
 * [hermes-weather-plugin](https://github.com/FahrenheitResearch/hermes-weather-plugin) ⭐ 47 | 🐛 3 | 🌐 Python | 📅 2026-04-05 by [FahrenheitResearch](https://github.com/FahrenheitResearch) — Professional-grade weather plugin with NWS model imagery, NEXRAD radar, meteorological calculations. **\[beta]**
@@ -690,7 +690,7 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 ### 💰 Finance, Payments & Crypto
 
-* [internet-court-skill](https://github.com/internet-court/internet-court-skill) ⭐ 4,969 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-19 by [Internet Court Consortium](https://github.com/internet-court) — Trust layer for agent-to-agent commerce: mandates, payments, escrow, dispute resolution. **\[beta]**
+* [internet-court-skill](https://github.com/internet-court/internet-court-skill) ⭐ 4,974 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-19 by [Internet Court Consortium](https://github.com/internet-court) — Trust layer for agent-to-agent commerce: mandates, payments, escrow, dispute resolution. **\[beta]**
 * [chainlink-agent-skills](https://github.com/smartcontractkit/chainlink-agent-skills) ⭐ 125 | 🐛 9 | 🌐 Solidity | 📅 2026-08-27 by [Chainlink](https://github.com/smartcontractkit) — Official Chainlink skills. Oracle data, CCIP, smart contract interaction. **\[production]**
 * [erpclaw](https://github.com/avansaber/erpclaw) ⭐ 97 | 🐛 2 | 🌐 Python | 📅 2026-08-16 by [AvanSaber](https://github.com/avansaber) — AI-native open-source ERP and double-entry accounting you self-host and run in plain English. Invoicing, inventory, general ledger, payroll, multi-company books. **\[beta]**
 * [AgentCash](https://github.com/Merit-Systems/agentcash-skills) ⭐ 19 | 🐛 23 | 📅 2026-08-19 by [Merit-Systems](https://github.com/Merit-Systems) — 300+ premium APIs + wallet for paying via x402 or MPP. Free USDC for trying out. **\[beta]**
@@ -718,7 +718,7 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 ### 🔐 Security & Detection
 
-* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 31,518 | 🐛 48 | 🌐 Python | 📅 2026-08-24 by [mukul975](https://github.com/mukul975) — 753+ structured cybersecurity skills mapped to MITRE ATT\&CK. 31k★. **\[production]**
+* [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 31,529 | 🐛 48 | 🌐 Python | 📅 2026-08-24 by [mukul975](https://github.com/mukul975) — 753+ structured cybersecurity skills mapped to MITRE ATT\&CK. 31k★. **\[production]**
 * [hermes-agent-camel](https://github.com/nativ3ai/hermes-agent-camel) ⭐ 194 | 🐛 1 | 🌐 Python | 📅 2026-05-07 by [nativ3ai](https://github.com/nativ3ai) — Hermes with integrated CaMeL trust boundaries. Formal trust verification for safety-critical deployments. **\[beta]**
 * [resemble-ai/detect-skill](https://github.com/resemble-ai/detect-skill) ⭐ 70 | 🐛 1 | 📅 2026-08-17 by [Resemble AI](https://github.com/resemble-ai) — Deepfake detection: AI-generated audio/image/video/text, source tracing, watermarking, speaker ID. **\[beta]**
 * [incognito-mode](https://github.com/GenmetsuWenxuePress/hermes-skills) ⭐ 0 | 🐛 11 | 📅 2026-08-12 by [幻灭文学出版社](https://github.com/GenmetsuWenxuePress) — Defense-in-depth incognito mode: PID-locked sandbox, shell history suppression, 10-step reverse audit with Python secure wipe, subagent inheritance protocol. **\[beta]**
@@ -736,7 +736,7 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 > Hermes **plugins** — installable packages that add tools, commands, hooks or providers to the agent itself, rather than a single `SKILL.md`. Install with `hermes plugins install <repo>`.
 
-* [planning-with-files](https://github.com/OthmanAdi/planning-with-files) ⭐ 26,407 | 🐛 11 | 🌐 Shell | 📅 2026-08-22 by [OthmanAdi](https://github.com/OthmanAdi) — Crash-proof file-based planning for long-running agent tasks, with session recovery after a context clear. **\[production]**
+* [planning-with-files](https://github.com/OthmanAdi/planning-with-files) ⭐ 26,408 | 🐛 11 | 🌐 Shell | 📅 2026-08-22 by [OthmanAdi](https://github.com/OthmanAdi) — Crash-proof file-based planning for long-running agent tasks, with session recovery after a context clear. **\[production]**
 * [babysitter](https://github.com/a5c-ai/babysitter) ⭐ 1,747 | 🐛 330 | 🌐 JavaScript | 📅 2026-08-28 by [a5c-ai](https://github.com/a5c-ai) — Deterministic supervision loop for agentic workforces: enforces plans, retries and completion criteria on long multi-step runs. **\[production]**
 * [signetai](https://github.com/Signet-AI/signetai) ⭐ 262 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-29 by [Signet-AI](https://github.com/Signet-AI) — Syncs memories, shared identity files (`AGENTS.md`, `CLAUDE.md`), transcripts and secrets between agents and machines. **\[beta]**
 * [hermes-humalike-plugin](https://github.com/Humalike/hermes-humalike-plugin) ⭐ 202 | 🐛 2 | 🌐 Python | 📅 2026-08-04 by [Humalike](https://github.com/Humalike) — Makes a chat-connected Hermes read like a person rather than a bot — pacing, typing behaviour, reply timing. **\[beta]**
@@ -769,7 +769,7 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 > Swap-in backends for Hermes's memory layer. A provider changes what the agent remembers and how it recalls it — install one and the built-in memory tools route through it.
 
-* [hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,608 | 🐛 139 | 🌐 Python | 📅 2026-08-28 by [Vectorize](https://github.com/vectorize-io) — Long-term memory layer with retain/recall/reflect workflows. Semantic + graph + temporal retrieval. Plugin or MCP. **\[production]**
+* [hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,610 | 🐛 139 | 🌐 Python | 📅 2026-08-29 by [Vectorize](https://github.com/vectorize-io) — Long-term memory layer with retain/recall/reflect workflows. Semantic + graph + temporal retrieval. Plugin or MCP. **\[production]**
 * [memory-os](https://github.com/ClaudioDrews/memory-os) ⭐ 1,343 | 🐛 8 | 🌐 Python | 📅 2026-06-10 by [ClaudioDrews](https://github.com/ClaudioDrews) — Seven-layer memory system with Qdrant, structured facts, fabric recall and auto-curation. The most opinionated provider here. **\[production]**
 * [honcho-self-hosted](https://github.com/elkimek/honcho-self-hosted) ⭐ 368 | 🐛 6 | 🌐 Shell | 📅 2026-04-09 by [elkimek](https://github.com/elkimek) — Self-hosted Honcho memory backend setup for Hermes. Stronger cross-session memory with local control. **\[beta]**
 * [scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) ⭐ 257 | 🐛 8 | 🌐 Python | 📅 2026-08-28 by [410979729](https://github.com/410979729) — Scope-aware recall over SQLite truth plus LanceDB semantic search, with hybrid retrieval. **\[beta]**
@@ -791,9 +791,9 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 > Where Hermes actually meets you — clients, dashboards, chat platforms and devices that talk to a running Hermes gateway.
 
-* [screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,281 | 🐛 58 | 🌐 Rust | 📅 2026-08-29 by [screenpipe](https://github.com/screenpipe) — Records your screen continuously and feeds it to Hermes and 100+ other agents. Local and private. **\[production]**
-* [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) ⭐ 17,846 | 🐛 792 | 🌐 Python | 📅 2026-08-26 by [nesquena](https://github.com/nesquena) — The most-starred way to drive Hermes from a browser or a phone. **\[production]**
-* [hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) ⭐ 10,659 | 🐛 298 | 🌐 TypeScript | 📅 2026-08-29 by [EKKOLearnAI](https://github.com/EKKOLearnAI) — Web dashboard for multi-platform chat, session management, scheduled jobs and usage analytics. **\[production]**
+* [screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,281 | 🐛 60 | 🌐 Rust | 📅 2026-08-29 by [screenpipe](https://github.com/screenpipe) — Records your screen continuously and feeds it to Hermes and 100+ other agents. Local and private. **\[production]**
+* [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) ⭐ 17,847 | 🐛 792 | 🌐 Python | 📅 2026-08-26 by [nesquena](https://github.com/nesquena) — The most-starred way to drive Hermes from a browser or a phone. **\[production]**
+* [hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) ⭐ 10,665 | 🐛 299 | 🌐 TypeScript | 📅 2026-08-29 by [EKKOLearnAI](https://github.com/EKKOLearnAI) — Web dashboard for multi-platform chat, session management, scheduled jobs and usage analytics. **\[production]**
 * [hermes-desktop-avatar](https://github.com/erenciracioglu-dotcom/hermes-desktop-avatar) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-07-30 by [erenciracioglu-dotcom](https://github.com/erenciracioglu-dotcom) — Always-on-top desktop sprite that fronts a local gateway. PySide6, OpenAI-compatible HTTP. **\[experimental]**
 * [hermes-dashboard](https://github.com/chrisryugj/hermes-dashboard) ⭐ 39 | 🐛 0 | 🌐 HTML | 📅 2026-07-30 by [chrisryugj](https://github.com/chrisryugj) — Web dashboard for gateway config, MCP, cron and model management without touching the CLI. **\[beta]**
 * [hermes-zalo-plugin](https://github.com/cuongdev/hermes-zalo-plugin) ⭐ 30 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-26 by [cuongdev](https://github.com/cuongdev) — Connects a personal Zalo account to the gateway via zca-js. macOS, Linux and Windows. **\[beta]**
@@ -809,8 +809,8 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 
 > Apps and dashboards built on top of or alongside Hermes. Not skills — but they make skills easier to use.
 
-* [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,529 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 by [outsourc-e](https://github.com/outsourc-e) — Web-based workspace: chat, terminal, memory browser, skills manager, inspector. Most complete GUI for Hermes. 6.5k★. **\[production]**
-* [mission-control](https://github.com/builderz-labs/mission-control) ⭐ 6,126 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-25 by [builderz-labs](https://github.com/builderz-labs) — Open-source dashboard for AI agent orchestration. Multi-agent fleets, task dispatch, cost tracking. 6.1k★. **\[production]**
+* [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐ 6,530 | 🐛 144 | 🌐 JavaScript | 📅 2026-08-22 by [outsourc-e](https://github.com/outsourc-e) — Web-based workspace: chat, terminal, memory browser, skills manager, inspector. Most complete GUI for Hermes. 6.5k★. **\[production]**
+* [mission-control](https://github.com/builderz-labs/mission-control) ⭐ 6,127 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-25 by [builderz-labs](https://github.com/builderz-labs) — Open-source dashboard for AI agent orchestration. Multi-agent fleets, task dispatch, cost tracking. 6.1k★. **\[production]**
 * [hermes-desktop](https://github.com/dodo-reach/hermes-desktop) ⭐ 2,005 | 🐛 18 | 🌐 Swift | 📅 2026-06-19 by [dodo-reach](https://github.com/dodo-reach) — Native macOS workspace with direct host-first SSH. Real terminal, session browsing, file editing. **\[beta]**
 * [portable-hermes-agent](https://github.com/aivrar/portable-hermes-agent) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2026-08-27 by [aivrar](https://github.com/aivrar) — Windows desktop app bundling 100 tools, GUI, local models, ComfyUI in a portable package. **\[beta]**
 * [hermes-ui](https://github.com/pyrate-llama/hermes-ui) ⭐ 196 | 🐛 1 | 🌐 HTML | 📅 2026-06-30 by [pyrate-llama](https://github.com/pyrate-llama) — Single-file glassmorphic web UI with SSE streaming, tool call visualization, PDF export, session/skill/memory viewers. **\[beta]**
@@ -856,7 +856,7 @@ Runtime variables `${PLUGIN_ROOT}` and `${PLUGIN_DATA}` resolve at load time. Pa
 
 ## 📖 Guides & Documentation
 
-* **[Release Notes](https://github.com/NousResearch/hermes-agent/releases) ⭐ 237,769 | 🐛 37,138 | 🌐 Python | 📅 2026-08-29** — Official changelog with feature highlights and migration notes.
+* **[Release Notes](https://github.com/NousResearch/hermes-agent/releases) ⭐ 237,805 | 🐛 37,196 | 🌐 Python | 📅 2026-08-29** — Official changelog with feature highlights and migration notes.
 * [hermes-agent-docs](https://github.com/mudrii/hermes-agent-docs) ⭐ 74 | 🐛 2 | 🌐 MDX | 📅 2026-05-18 by [mudrii](https://github.com/mudrii) — Comprehensive community documentation. Useful supplement for deployment patterns. **\[beta]**
 * [hermes-ai-team](https://github.com/smfworks/hermes-ai-team) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2026-08-26 by [smfworks](https://github.com/smfworks) — Phase-by-phase guide to building a team of Hermes agents: SOUL, memory, vault, nightly research, kanban and a chief of staff. Written to be read by the agent, not just about it. 36★. **\[production]**
 * [hermes-wsl-ubuntu](https://github.com/metantonio/hermes-wsl-ubuntu) ⭐ 41 | 🐛 0 | 🌐 Shell | 📅 2026-05-22 by [metantonio](https://github.com/metantonio) — End-to-end WSL2 + llama.cpp + Qwen3.5 setup with CUDA/Metal acceleration for running Hermes on Windows. **\[production]**
@@ -892,7 +892,7 @@ Recommended scanners:
 * [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan) ⭐ 2,971 | 🐛 8 | 🌐 Python | 📅 2026-08-28
 * [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
-Spot something risky? [Open an issue](https://github.com/ZeroPointRepo/awesome-hermes-skills/issues) ⭐ 477 | 🐛 4 | 📅 2026-08-27.
+Spot something risky? [Open an issue](https://github.com/ZeroPointRepo/awesome-hermes-skills/issues) ⭐ 479 | 🐛 4 | 📅 2026-08-27.
 
 ***
 
@@ -931,7 +931,7 @@ Full rules and a copy-paste example: **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
 We ship [youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) ⭐ 580 | 🐛 3 | 📅 2026-08-25, powered by [TranscriptAPI](https://transcriptapi.com) — 15M+ transcripts/month, 99.9% uptime.
 
-[TranscriptAPI](https://transcriptapi.com) · [@therohitdas](https://twitter.com/therohitdas) · [Issues & Suggestions](https://github.com/ZeroPointRepo/awesome-hermes-skills/issues) ⭐ 477 | 🐛 4 | 📅 2026-08-27
+[TranscriptAPI](https://transcriptapi.com) · [@therohitdas](https://twitter.com/therohitdas) · [Issues & Suggestions](https://github.com/ZeroPointRepo/awesome-hermes-skills/issues) ⭐ 479 | 🐛 4 | 📅 2026-08-27
 
 Built with [crhq.ai](https://crhq.ai)
 
