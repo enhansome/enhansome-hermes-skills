@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:10:44Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 820,
+                "stars": 829,
                 "topics": [
                   "agent-skills",
                   "clawdbot",
@@ -229,10 +229,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-05T21:07:27Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3641,
+                "stars": 3678,
                 "topics": [
                   "agents",
                   "claude-code-plugin",
@@ -260,7 +260,7 @@
                 "id": 1314958683,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-06T08:29:17Z",
+                "last_commit": "2026-09-08T08:07:25Z",
                 "open_issues": 0,
                 "owner": "33hodl",
                 "repo": "hermes-startup",
@@ -291,10 +291,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -312,10 +312,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -333,10 +333,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -354,10 +354,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -375,10 +375,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -396,10 +396,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -417,10 +417,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -438,10 +438,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -459,10 +459,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -480,10 +480,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -501,10 +501,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -522,10 +522,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -543,10 +543,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -564,10 +564,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -585,10 +585,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -606,10 +606,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -627,10 +627,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -648,10 +648,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -669,10 +669,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -690,10 +690,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -711,10 +711,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -732,10 +732,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -753,10 +753,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-04T08:45:43Z",
-                    "open_issues": 471,
+                    "open_issues": 477,
                     "owner": "mattpocock",
                     "repo": "skills",
-                    "stars": 256034,
+                    "stars": 256909,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:44.604Z"
@@ -781,10 +781,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-17T08:48:07Z",
-                    "open_issues": 36,
+                    "open_issues": 38,
                     "owner": "AMAP-ML",
                     "repo": "SkillClaw",
-                    "stars": 2572,
+                    "stars": 2578,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -819,7 +819,7 @@
                     "open_issues": 8,
                     "owner": "wondelai",
                     "repo": "skills",
-                    "stars": 2120,
+                    "stars": 2128,
                     "topics": [
                       "agent-skills",
                       "ai-skills",
@@ -857,7 +857,7 @@
                     "open_issues": 0,
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 902,
+                    "stars": 904,
                     "topics": [
                       "ai-agents",
                       "ai-testing",
@@ -1073,7 +1073,7 @@
                     "open_issues": 2,
                     "owner": "armelhbobdad",
                     "repo": "bmad-module-skill-forge",
-                    "stars": 94,
+                    "stars": 95,
                     "topics": [
                       "agent-skills",
                       "agents",
@@ -1267,7 +1267,7 @@
                     "open_issues": 0,
                     "owner": "cablate",
                     "repo": "Agentic-MCP-Skill",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": [
                       "agentskill",
                       "agentskills",
@@ -1557,7 +1557,7 @@
                 "id": 1230366935,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T20:36:04Z",
+                "last_commit": "2026-09-08T20:35:20Z",
                 "open_issues": 3,
                 "owner": "Xquik-dev",
                 "repo": "hermes-tweet",
@@ -1603,7 +1603,7 @@
                 "open_issues": 2,
                 "owner": "Andrew-Girgis",
                 "repo": "microsoft-workspace-skill",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "calendar",
                   "email",
@@ -1815,10 +1815,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-04T08:45:43Z",
-                "open_issues": 471,
+                "open_issues": 477,
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 256034,
+                "stars": 256909,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
@@ -1836,10 +1836,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-04T08:45:43Z",
-                "open_issues": 471,
+                "open_issues": 477,
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 256034,
+                "stars": 256909,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
@@ -1860,7 +1860,7 @@
                 "open_issues": 0,
                 "owner": "42-evey",
                 "repo": "hermes-plugins",
-                "stars": 447,
+                "stars": 449,
                 "topics": [
                   "ai-agent",
                   "autonomous-agent",
@@ -1968,7 +1968,7 @@
                 "open_issues": 1,
                 "owner": "bergside",
                 "repo": "typeui",
-                "stars": 1887,
+                "stars": 1895,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -2048,7 +2048,7 @@
                 "open_issues": 3,
                 "owner": "black-forest-labs",
                 "repo": "skills",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -2090,16 +2090,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.",
+                "description": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens.",
                 "homepage": "https://uizze.com",
                 "id": 1301842069,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T09:00:26Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-08T19:03:40Z",
+                "open_issues": 4,
                 "owner": "uizze",
                 "repo": "uizze",
-                "stars": 17,
+                "stars": 19,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -2228,27 +2228,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "evey-setup",
-              "description": "by 42-evey — One-command setup for full hermes-agent stack with free models and 29 plugins. [beta]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Get a hermes-agent stack running in minutes. Free models, 29 plugins, zero cost.",
-                "homepage": null,
-                "id": 1187563922,
-                "language": "Shell",
-                "license": "MIT",
-                "last_commit": "2026-07-18T05:50:36Z",
-                "open_issues": 2,
-                "owner": "42-evey",
-                "repo": "evey-setup",
-                "stars": 67,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:55:44.604Z"
-            },
-            {
-              "node_type": "item",
               "title": "nika",
               "description": "by supernovae-st — Deterministic workflow runner Hermes can delegate to. Repeatable jobs become reviewable files with plan, cost and permit checks up front and a hash-chained trace after. [beta]",
               "children": [],
@@ -2259,11 +2238,11 @@
                 "id": 1126625946,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-07T21:41:31Z",
-                "open_issues": 85,
+                "last_commit": "2026-09-08T19:36:13Z",
+                "open_issues": 80,
                 "owner": "supernovae-st",
                 "repo": "nika",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "agents",
                   "ai",
@@ -2286,6 +2265,27 @@
                   "workflow-engine",
                   "yaml"
                 ]
+              },
+              "first_seen": "2026-08-29T01:55:44.604Z"
+            },
+            {
+              "node_type": "item",
+              "title": "evey-setup",
+              "description": "by 42-evey — One-command setup for full hermes-agent stack with free models and 29 plugins. [beta]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Get a hermes-agent stack running in minutes. Free models, 29 plugins, zero cost.",
+                "homepage": null,
+                "id": 1187563922,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-07-18T05:50:36Z",
+                "open_issues": 2,
+                "owner": "42-evey",
+                "repo": "evey-setup",
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
             },
@@ -2322,11 +2322,11 @@
                 "id": 1182767219,
                 "language": "Nix",
                 "license": null,
-                "last_commit": "2026-09-07T08:51:25Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-08T08:57:06Z",
+                "open_issues": 3,
                 "owner": "0xrsydn",
                 "repo": "nix-hermes-agent",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:44.604Z"
@@ -2406,10 +2406,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-19T15:00:54Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "internet-court",
                 "repo": "internet-court-skill",
-                "stars": 5453,
+                "stars": 5479,
                 "topics": [
                   "a2a",
                   "adjudication",
@@ -2499,7 +2499,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-19T15:58:48Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "Merit-Systems",
                 "repo": "agentcash-skills",
                 "stars": 20,
@@ -2996,7 +2996,7 @@
                 "open_issues": 45,
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 32360,
+                "stars": 32424,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -3278,11 +3278,11 @@
             "id": 1127110039,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T08:19:29Z",
+            "last_commit": "2026-09-08T12:30:03Z",
             "open_issues": 8,
             "owner": "OthmanAdi",
             "repo": "planning-with-files",
-            "stars": 26701,
+            "stars": 26726,
             "topics": [
               "agent-skills",
               "autonomous-agents",
@@ -3324,7 +3324,7 @@
             "open_issues": 427,
             "owner": "a5c-ai",
             "repo": "babysitter",
-            "stars": 1779,
+            "stars": 1780,
             "topics": [
               "agent-orchestration",
               "agent-skills",
@@ -3361,11 +3361,11 @@
             "id": 1155093426,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T21:20:56Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-08T12:08:36Z",
+            "open_issues": 61,
             "owner": "Signet-AI",
             "repo": "signetai",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "agent-memory",
               "ai-memory",
@@ -3422,7 +3422,7 @@
             "open_issues": 1,
             "owner": "lingjiuu",
             "repo": "hermes-dynamic-workflows",
-            "stars": 117,
+            "stars": 116,
             "topics": [
               "dynamic-workflows",
               "hermes-agent",
@@ -3482,8 +3482,8 @@
             "id": 1277842157,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T11:19:43Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-08T20:08:50Z",
+            "open_issues": 4,
             "owner": "bielcarpi",
             "repo": "hermes-live-voice",
             "stars": 44,
@@ -3508,38 +3508,6 @@
               "voice-agent",
               "voice-assistant",
               "websocket"
-            ]
-          },
-          "first_seen": "2026-08-29T01:55:44.604Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hermes-code-bridge",
-          "description": "by xuyang-liu16 — Makes Hermes the control plane for local coding agents — Codex, Claude Code, OpenCode, Gemini CLI, Kimi Code. [beta]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Use Hermes Agent as the control plane for local coding agents like Codex, Kimi Code, Claude Code, OpenCode, and Gemini CLI.",
-            "homepage": null,
-            "id": 1252551939,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-07-22T17:25:40Z",
-            "open_issues": 1,
-            "owner": "xuyang-liu16",
-            "repo": "hermes-code-bridge",
-            "stars": 38,
-            "topics": [
-              "ai-agent",
-              "claude-code",
-              "cli-agents",
-              "codex",
-              "developer-tools",
-              "hermes-agent",
-              "hermes-plugin",
-              "kimi-code",
-              "multi-agent",
-              "opencode"
             ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
@@ -3580,6 +3548,38 @@
               "skill-evolution",
               "skill-governance",
               "sqlite"
+            ]
+          },
+          "first_seen": "2026-08-29T01:55:44.604Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-code-bridge",
+          "description": "by xuyang-liu16 — Makes Hermes the control plane for local coding agents — Codex, Claude Code, OpenCode, Gemini CLI, Kimi Code. [beta]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Use Hermes Agent as the control plane for local coding agents like Codex, Kimi Code, Claude Code, OpenCode, and Gemini CLI.",
+            "homepage": null,
+            "id": 1252551939,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-22T17:25:40Z",
+            "open_issues": 1,
+            "owner": "xuyang-liu16",
+            "repo": "hermes-code-bridge",
+            "stars": 37,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "cli-agents",
+              "codex",
+              "developer-tools",
+              "hermes-agent",
+              "hermes-plugin",
+              "kimi-code",
+              "multi-agent",
+              "opencode"
             ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
@@ -3698,7 +3698,7 @@
             "open_issues": 2,
             "owner": "magnus919",
             "repo": "hermes-profiles",
-            "stars": 151,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
@@ -3780,7 +3780,7 @@
             "open_issues": 0,
             "owner": "theheavenlyd3mon",
             "repo": "hermes-profiles",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -3788,6 +3788,33 @@
               "llm",
               "personas",
               "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-29T01:55:44.604Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-profile-packs",
+          "description": "by Dadmin88 — Three profile packs kept as coherent teams rather than isolated prompts: Agency for professional work, Council for personal life, Academy for teaching. Each profile ships its own SOUL.md, skills and distribution manifest. [beta]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Curated Hermes Agent profile packs",
+            "homepage": null,
+            "id": 1342828468,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-07T21:00:20Z",
+            "open_issues": 0,
+            "owner": "Dadmin88",
+            "repo": "hermes-profile-packs",
+            "stars": 13,
+            "topics": [
+              "agent-profiles",
+              "ai-agents",
+              "hermes-agent",
+              "multi-agent",
+              "open-source"
             ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
@@ -3810,33 +3837,6 @@
             "repo": "hermes-profile-kit",
             "stars": 12,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:55:44.604Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hermes-profile-packs",
-          "description": "by Dadmin88 — Three profile packs kept as coherent teams rather than isolated prompts: Agency for professional work, Council for personal life, Academy for teaching. Each profile ships its own SOUL.md, skills and distribution manifest. [beta]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Curated Hermes Agent profile packs",
-            "homepage": null,
-            "id": 1342828468,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T21:00:20Z",
-            "open_issues": 0,
-            "owner": "Dadmin88",
-            "repo": "hermes-profile-packs",
-            "stars": 11,
-            "topics": [
-              "agent-profiles",
-              "ai-agents",
-              "hermes-agent",
-              "multi-agent",
-              "open-source"
-            ]
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
         },
@@ -3887,11 +3887,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T15:27:51Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-08T16:58:49Z",
+            "open_issues": 60,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 23183,
+            "stars": 23253,
             "topics": [
               "agentic-ai",
               "agents",
@@ -3951,7 +3951,7 @@
             "open_issues": 6,
             "owner": "elkimek",
             "repo": "honcho-self-hosted",
-            "stars": 372,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:44.604Z"
@@ -4006,11 +4006,11 @@
             "id": 1186683138,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T21:29:37Z",
-            "open_issues": 216,
+            "last_commit": "2026-09-08T13:11:06Z",
+            "open_issues": 192,
             "owner": "plur-ai",
             "repo": "plur",
-            "stars": 245,
+            "stars": 248,
             "topics": [
               "agent-memory",
               "ai-agents",
@@ -4035,11 +4035,11 @@
             "id": 1150677698,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T19:29:25Z",
+            "last_commit": "2026-09-07T23:50:15Z",
             "open_issues": 24,
             "owner": "joshuaswarren",
             "repo": "remnic",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "ai-agent",
               "ai-memory",
@@ -4180,11 +4180,11 @@
             "id": 1312924592,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T18:22:22Z",
+            "last_commit": "2026-09-08T18:54:12Z",
             "open_issues": 12,
             "owner": "JingxuanC",
             "repo": "causal-memory",
-            "stars": 66,
+            "stars": 68,
             "topics": [
               "agent-memory",
               "causal-inference",
@@ -4254,7 +4254,7 @@
             "id": 1263220935,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:22:51Z",
+            "last_commit": "2026-09-08T01:21:48Z",
             "open_issues": 3,
             "owner": "ccf",
             "repo": "agentcairn",
@@ -4428,11 +4428,11 @@
             "id": 817326197,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T21:48:00Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-08T21:16:54Z",
+            "open_issues": 35,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21472,
+            "stars": 21487,
             "topics": [
               "agents",
               "agi",
@@ -4470,11 +4470,11 @@
             "id": 1196617276,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:01:50Z",
-            "open_issues": 865,
+            "last_commit": "2026-09-08T18:47:31Z",
+            "open_issues": 840,
             "owner": "nesquena",
             "repo": "hermes-webui",
-            "stars": 18153,
+            "stars": 18190,
             "topics": [
               "agent",
               "ai-agents",
@@ -4497,11 +4497,11 @@
             "id": 1207639951,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T15:26:14Z",
-            "open_issues": 360,
+            "last_commit": "2026-09-08T15:26:36Z",
+            "open_issues": 369,
             "owner": "EKKOLearnAI",
             "repo": "hermes-studio",
-            "stars": 10920,
+            "stars": 10954,
             "topics": [
               "agent",
               "ai-agent",
@@ -4579,7 +4579,7 @@
             "open_issues": 0,
             "owner": "cuongdev",
             "repo": "hermes-zalo-plugin",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "bridge",
               "chatbot",
@@ -4785,7 +4785,7 @@
             "open_issues": 149,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6582,
+            "stars": 6584,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -4811,10 +4811,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-07T00:27:51Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6191,
+            "stars": 6194,
             "topics": [
               "agent-observability",
               "agent-operations",
@@ -4851,7 +4851,7 @@
             "open_issues": 18,
             "owner": "dodo-reach",
             "repo": "hermes-desktop",
-            "stars": 2018,
+            "stars": 2019,
             "topics": [
               "agent-tools",
               "apple-silicon",
@@ -4884,7 +4884,7 @@
             "open_issues": 1,
             "owner": "aivrar",
             "repo": "portable-hermes-agent",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "ai",
               "ai-agents",
@@ -4920,7 +4920,7 @@
             "open_issues": 1,
             "owner": "pyrate-llama",
             "repo": "hermes-ui",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "ai",
               "ai-assistant",
@@ -5029,7 +5029,7 @@
             "open_issues": 18,
             "owner": "agentplugins",
             "repo": "agent-plugins-spec",
-            "stars": 1255,
+            "stars": 1259,
             "topics": [
               "agent-plugins",
               "agent-skills",
@@ -5182,11 +5182,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T21:30:43Z",
-            "open_issues": 40507,
+            "last_commit": "2026-09-08T21:28:42Z",
+            "open_issues": 40966,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 243020,
+            "stars": 243415,
             "topics": [
               "ai",
               "ai-agent",
@@ -5242,7 +5242,7 @@
             "open_issues": 1,
             "owner": "smfworks",
             "repo": "hermes-ai-team",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "agent-identity",
               "ai-agents",
@@ -5296,11 +5296,11 @@
             "id": 1332067090,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T09:00:56Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-08T09:00:22Z",
+            "open_issues": 7,
             "owner": "ZeroPointRepo",
             "repo": "awesome-grok-bot",
-            "stars": 16,
+            "stars": 18,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -5376,7 +5376,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-07T14:20:26Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "ZeroPointRepo",
             "repo": "awesome-dsh-plugins",
             "stars": 1,
@@ -5465,7 +5465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:48:50.189Z",
+    "last_updated": "2026-09-08T21:28:54.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.",
@@ -5474,10 +5474,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-02T06:47:04Z",
-      "open_issues": 11,
+      "open_issues": 13,
       "owner": "ZeroPointRepo",
       "repo": "awesome-hermes-skills",
-      "stars": 516,
+      "stars": 518,
       "topics": [
         "agent-plugins",
         "agent-skills",
